@@ -1,0 +1,1801 @@
+order_id,order_date,product,category,quantity,sales,region
+ORD100000,2024-04-16,Groceries,Groceries,3.0,1499.97,Nigeria
+ORD100001,2024-08-18,Groceries,Groceries,,,nigeria
+ORD100002,2024-04-27,Electronics,Electronics,3.0,1499.97,Nigeria
+ORD100003,2024-10-14,Electronics,Electronics,3.0,4500.0,USA
+ORD100004,2024-04-16,Groceries,Groceries,2.0,1000.0,Nigeria
+ORD100005,2025-02-09,Groceries,Groceries,4.0,2000.0,Nigeria
+ORD100006,2025-02-17,Groceries,Groceries,3.0,4500.0,United States
+ORD100007,2025-06-28,Groceries,Groceries,5.0,2500.0,United Kingdom
+ORD100008,2025-08-17,Home,Home,4.0,2000.0,United Kingdom
+ORD100009,2024-06-11,Fashion,Fashion,4.0,1999.96,Nigeria
+ORD100010,2024-11-01,Electronics,Electronics,3.0,1500.0,United States
+ORD100011,2024-08-02,Fashion,Fashion,,,Nigeria
+ORD100012,2024-03-03,Groceries,Groceries,1.0,500.0,Nigeria
+ORD100013,2025-03-23,Home,Home,2.0,1000.0,Nigeria
+ORD100014,2025-01-05,Groceries,Groceries,1.0,1200.0,Ghana
+ORD100015,2024-04-19,electronics,electronics,4.0,10000.0,nigeria
+ORD100016,2025-02-16,Electronics,Electronics,,,nigeria
+ORD100017,2024-06-08,Electronics,Electronics,4.0,10000.0,Nigeria
+ORD100018,2024-08-24,Home,Home,2.0,5000.0,United Kingdom
+ORD100019,2025-02-16,Electronics,Electronics,,,Nigeria
+ORD100020,2024-09-09,Electronics,Electronics,1.0,500.0,Nigeria
+ORD100021,2025-04-20,Fashion,Fashion,5.0,2500.0,Nigeria
+ORD100022,2024-09-07,electronics,electronics,3.0,7500.0,Turkey
+ORD100023,2025-10-13,Groceries,Groceries,1.0,1200.0,United Kingdom
+ORD100024,2026-01-12,Fashion,Fashion,1.0,1200.0,United States
+ORD100025,2025-01-07,Electronics,Electronics,1.0,500.0,Nigeria
+ORD100026,2026-02-16,Home,Home,-1.0,-499.99,nigeria
+ORD100027,2025-07-15,electronics,electronics,1.0,2500.0,United States
+ORD100028,2024-06-24,Electronics,Electronics,2.0,2400.0,United States
+ORD100029,2024-03-17,Electronics,Electronics,2.0,999.98,nigeria
+ORD100030,2024-11-10,Electronics,Electronics,2.0,5000.0,Ghana
+ORD100031,2025-09-07,Home,Home,1.0,499.99,Ghana
+ORD100032,2024-10-31,electronics,electronics,1.0,1200.0,Nigeria
+ORD100033,2025-10-04,electronics,electronics,5.0,12500.0,Ghana
+ORD100034,2025-02-01,Electronics,Electronics,1.0,1200.0,nigeria
+ORD100035,2025-07-15,Groceries,Groceries,,,United Kingdom
+ORD100036,2024-12-16,Fashion,Fashion,5.0,2500.0,Ghana
+ORD100037,2024-04-02,Electronics,Electronics,1.0,500.0,Ghana
+ORD100038,,electronics,electronics,1.0,499.99,United Kingdom
+ORD100039,2026-01-05,Groceries,Groceries,3.0,7500.0,nigeria
+ORD100040,2026-01-26,Electronics,Electronics,1.0,1500.0,United States
+ORD100041,2024-04-13,Electronics,Electronics,3.0,1500.0,Nigeria
+ORD100042,2025-05-10,electronics,electronics,1.0,500.0,USA
+ORD100043,2024-09-25,Electronics,Electronics,,,nigeria
+ORD100044,2024-08-22,electronics,electronics,5.0,2500.0,United Kingdom
+ORD100045,2025-01-20,Electronics,Electronics,1.0,2500.0,Nigeria
+ORD100046,2026-01-21,Home,Home,1.0,,United States
+ORD100047,2025-07-11,Groceries,Groceries,3.0,1499.97,Ghana
+ORD100048,2025-12-25,electronics,electronics,1.0,1500.0,Nigeria
+ORD100049,2024-05-02,electronics,electronics,2.0,2400.0,United States
+ORD100050,2025-09-24,electronics,electronics,,,United States
+ORD100051,2024-07-04,Groceries,Groceries,5.0,2499.95,United States
+ORD100052,2024-09-28,Electronics,Electronics,1.0,500.0,Ghana
+ORD100053,,electronics,electronics,2.0,999.98,Nigeria
+ORD100054,2025-01-29,Fashion,Fashion,-1.0,,nigeria
+ORD100055,2024-08-26,Electronics,Electronics,3.0,1500.0,Nigeria
+ORD100056,2024-05-05,Groceries,Groceries,3.0,3600.0,United States
+ORD100057,2024-07-31,electronics,electronics,3.0,,United States
+ORD100058,2026-01-22,Electronics,Electronics,5.0,,Nigeria
+ORD100059,,Fashion,Fashion,1.0,500.0,Nigeria
+ORD100060,2024-09-10,Electronics,Electronics,1.0,500.0,United States
+ORD100061,2025-03-11,Groceries,Groceries,1.0,,United States
+ORD100062,2025-05-09,Fashion,Fashion,3.0,4500.0,Nigeria
+ORD100063,2025-03-04,Groceries,Groceries,3.0,4500.0,Nigeria
+ORD100064,2025-10-03,Home,Home,1.0,499.99,United States
+ORD100065,2024-09-14,Groceries,Groceries,1.0,500.0,Nigeria
+ORD100066,2024-11-09,Fashion,Fashion,1.0,,United States
+ORD100067,2024-07-16,Groceries,Groceries,,,Turkey
+ORD100068,2024-06-01,Groceries,Groceries,1.0,2500.0,nigeria
+ORD100069,2025-12-16,Groceries,Groceries,2.0,5000.0,United Kingdom
+ORD100070,2024-08-14,Electronics,Electronics,5.0,2499.95,United Kingdom
+ORD100071,2024-10-03,Electronics,Electronics,,,Nigeria
+ORD100072,2024-03-10,Fashion,Fashion,1.0,2500.0,United States
+ORD100073,2025-06-21,Electronics,Electronics,4.0,6000.0,Nigeria
+ORD100074,2025-11-14,Electronics,Electronics,2.0,3000.0,nigeria
+ORD100075,2024-10-22,electronics,electronics,1.0,500.0,Ghana
+ORD100076,2025-08-28,Electronics,Electronics,1.0,1500.0,United Kingdom
+ORD100077,2025-09-17,Electronics,Electronics,2.0,5000.0,Turkey
+ORD100078,2024-07-28,Fashion,Fashion,1.0,500.0,United States
+ORD100079,2024-04-20,Groceries,Groceries,-1.0,-1200.0,USA
+ORD100080,2024-02-19,Home,Home,5.0,12500.0,United States
+ORD100081,2025-02-27,Fashion,Fashion,5.0,2500.0,Ghana
+ORD100082,2024-12-20,Fashion,Fashion,1.0,499.99,nigeria
+ORD100083,2024-12-14,Fashion,Fashion,-1.0,-1200.0,United Kingdom
+ORD100084,2025-04-29,Electronics,Electronics,3.0,7500.0,Nigeria
+ORD100085,2025-04-17,Home,Home,1.0,500.0,Ghana
+ORD100086,,Groceries,Groceries,3.0,4500.0,Turkey
+ORD100087,2025-04-16,Home,Home,2.0,3000.0,United Kingdom
+ORD100088,2025-02-22,Fashion,Fashion,2.0,2400.0,United States
+ORD100089,2024-12-27,Electronics,Electronics,1.0,500.0,USA
+ORD100090,2025-10-27,Electronics,Electronics,5.0,6000.0,Ghana
+ORD100091,2025-07-07,Groceries,Groceries,-1.0,-1500.0,United Kingdom
+ORD100092,2024-09-27,Electronics,Electronics,5.0,7500.0,Ghana
+ORD100093,2025-04-07,Fashion,Fashion,1.0,500.0,Ghana
+ORD100094,2024-06-09,Electronics,Electronics,1.0,500.0,Nigeria
+ORD100095,2026-02-01,Fashion,Fashion,4.0,1999.96,Nigeria
+ORD100096,2026-01-09,electronics,electronics,5.0,2500.0,Nigeria
+ORD100097,2024-11-06,electronics,electronics,2.0,,Nigeria
+ORD100098,2024-03-01,Fashion,Fashion,5.0,,Ghana
+ORD100099,2024-05-12,Electronics,Electronics,3.0,4500.0,USA
+ORD100100,2025-11-07,Groceries,Groceries,3.0,1499.97,Nigeria
+ORD100101,2024-02-26,Groceries,Groceries,2.0,1000.0,United States
+ORD100102,2025-03-08,Electronics,Electronics,2.0,1000.0,Nigeria
+ORD100103,2025-06-16,electronics,electronics,,,United States
+ORD100104,2024-06-10,Groceries,Groceries,1.0,2500.0,Nigeria
+ORD100105,2024-06-15,Groceries,Groceries,1.0,2500.0,Ghana
+ORD100106,2024-06-12,Home,Home,3.0,7500.0,Ghana
+ORD100107,2024-02-29,Electronics,Electronics,1.0,1200.0,United States
+ORD100108,2024-11-26,Fashion,Fashion,1.0,499.99,Nigeria
+ORD100109,2025-02-14,Groceries,Groceries,5.0,6000.0,United States
+ORD100110,2024-11-13,Fashion,Fashion,2.0,,Nigeria
+ORD100111,2024-03-04,Groceries,Groceries,5.0,2500.0,nigeria
+ORD100112,2025-04-17,electronics,electronics,5.0,2500.0,United States
+ORD100113,2025-06-06,Electronics,Electronics,3.0,1500.0,Turkey
+ORD100114,2024-07-26,electronics,electronics,3.0,3600.0,nigeria
+ORD100115,2025-03-05,Electronics,Electronics,2.0,1000.0,Ghana
+ORD100116,2025-01-03,Electronics,Electronics,5.0,2500.0,nigeria
+ORD100117,2024-08-30,electronics,electronics,1.0,500.0,United States
+ORD100118,2025-06-20,Groceries,Groceries,4.0,6000.0,nigeria
+ORD100119,2025-05-08,Fashion,Fashion,2.0,2400.0,nigeria
+ORD100120,2025-10-08,Electronics,Electronics,1.0,1200.0,Nigeria
+ORD100121,2025-07-17,electronics,electronics,2.0,1000.0,United Kingdom
+ORD100122,2025-03-01,Groceries,Groceries,2.0,,United States
+ORD100123,2024-03-25,Home,Home,3.0,,Nigeria
+ORD100124,2025-04-02,Fashion,Fashion,1.0,500.0,Nigeria
+ORD100125,2025-09-21,Electronics,Electronics,3.0,1500.0,Nigeria
+ORD100126,2024-04-11,Fashion,Fashion,2.0,,United States
+ORD100127,2024-12-20,Electronics,Electronics,2.0,1000.0,Ghana
+ORD100128,2025-06-11,Fashion,Fashion,2.0,999.98,Nigeria
+ORD100129,2025-03-13,Fashion,Fashion,5.0,7500.0,Turkey
+ORD100130,2024-03-13,Electronics,Electronics,2.0,1000.0,Nigeria
+ORD100131,2024-07-26,Groceries,Groceries,1.0,500.0,Turkey
+ORD100132,2025-08-03,Electronics,Electronics,3.0,1500.0,Turkey
+ORD100133,2024-03-05,Groceries,Groceries,1.0,500.0,Nigeria
+ORD100134,2026-02-05,Home,Home,,,United Kingdom
+ORD100135,2025-03-12,Electronics,Electronics,2.0,1000.0,United Kingdom
+ORD100136,2025-01-10,Electronics,Electronics,1.0,1200.0,United Kingdom
+ORD100137,2025-03-23,Home,Home,4.0,6000.0,USA
+ORD100138,2024-06-06,Electronics,Electronics,1.0,1500.0,USA
+ORD100139,2025-06-04,Groceries,Groceries,3.0,7500.0,United States
+ORD100140,,Groceries,Groceries,-1.0,-1500.0,Ghana
+ORD100141,2025-10-20,Fashion,Fashion,5.0,7500.0,Nigeria
+ORD100142,2024-07-06,electronics,electronics,1.0,500.0,Ghana
+ORD100143,2025-05-28,Groceries,Groceries,1.0,1200.0,United Kingdom
+ORD100144,2025-05-14,Fashion,Fashion,2.0,3000.0,nigeria
+ORD100145,2024-11-06,electronics,electronics,2.0,3000.0,Nigeria
+ORD100146,2025-12-01,Home,Home,4.0,,United States
+ORD100147,2025-02-12,Groceries,Groceries,5.0,6000.0,Nigeria
+ORD100148,2025-09-14,Home,Home,1.0,2500.0,nigeria
+ORD100149,2025-10-18,Groceries,Groceries,2.0,5000.0,USA
+ORD100150,2025-06-22,Electronics,Electronics,3.0,4500.0,Nigeria
+ORD100151,2024-05-25,Groceries,Groceries,4.0,4800.0,Nigeria
+ORD100152,2025-07-12,Groceries,Groceries,4.0,1999.96,nigeria
+ORD100153,2025-01-05,Fashion,Fashion,2.0,1000.0,United States
+ORD100154,2025-07-08,Groceries,Groceries,3.0,1500.0,Ghana
+ORD100155,2025-03-24,Home,Home,2.0,3000.0,USA
+ORD100156,2024-08-13,Groceries,Groceries,1.0,500.0,USA
+ORD100157,2024-06-25,electronics,electronics,1.0,,Nigeria
+ORD100158,2025-02-19,electronics,electronics,3.0,1500.0,Ghana
+ORD100159,2024-07-16,Home,Home,,,USA
+ORD100160,2024-09-03,electronics,electronics,2.0,2400.0,USA
+ORD100161,2025-08-26,Electronics,Electronics,2.0,5000.0,United States
+ORD100162,,Electronics,Electronics,1.0,500.0,United States
+ORD100163,2025-12-10,Groceries,Groceries,,,Turkey
+ORD100164,2024-05-12,Fashion,Fashion,1.0,1200.0,Nigeria
+ORD100165,2025-12-02,Electronics,Electronics,1.0,500.0,Ghana
+ORD100166,2025-12-07,Home,Home,,,Nigeria
+ORD100167,2025-01-09,Fashion,Fashion,1.0,1200.0,Nigeria
+ORD100168,2025-08-29,Electronics,Electronics,2.0,1000.0,Nigeria
+ORD100169,2024-04-26,Electronics,Electronics,2.0,1000.0,Ghana
+ORD100170,2024-09-09,Fashion,Fashion,1.0,1500.0,Turkey
+ORD100171,2025-10-05,electronics,electronics,1.0,1500.0,USA
+ORD100172,2024-07-23,Electronics,Electronics,5.0,7500.0,Nigeria
+ORD100173,2024-10-08,Home,Home,2.0,3000.0,Nigeria
+ORD100174,2024-03-27,Fashion,Fashion,1.0,500.0,United States
+ORD100175,2024-12-19,electronics,electronics,4.0,6000.0,United Kingdom
+ORD100176,2024-03-01,Home,Home,1.0,1200.0,Turkey
+ORD100177,2025-01-31,Electronics,Electronics,2.0,,United States
+ORD100178,2025-06-07,electronics,electronics,2.0,2400.0,nigeria
+ORD100179,2025-07-14,Fashion,Fashion,2.0,999.98,Nigeria
+ORD100180,2025-01-04,electronics,electronics,,,United States
+ORD100181,2025-02-26,Groceries,Groceries,,,Nigeria
+ORD100182,2024-03-17,Electronics,Electronics,4.0,10000.0,USA
+ORD100183,2024-10-03,electronics,electronics,2.0,2400.0,USA
+ORD100184,2025-11-05,Groceries,Groceries,4.0,1999.96,United Kingdom
+ORD100185,2026-02-13,Groceries,Groceries,3.0,7500.0,nigeria
+ORD100186,2025-08-30,electronics,electronics,,,United States
+ORD100187,2024-04-10,electronics,electronics,1.0,2500.0,USA
+ORD100188,2024-08-24,Home,Home,4.0,10000.0,Turkey
+ORD100189,2025-04-27,Home,Home,4.0,4800.0,United States
+ORD100190,2024-06-06,Fashion,Fashion,1.0,1200.0,United States
+ORD100191,2024-12-31,Fashion,Fashion,1.0,,United Kingdom
+ORD100192,2024-10-11,Electronics,Electronics,1.0,499.99,Nigeria
+ORD100193,2026-01-07,Groceries,Groceries,,,United States
+ORD100194,2025-02-16,electronics,electronics,3.0,1499.97,Nigeria
+ORD100195,2024-06-10,Home,Home,2.0,3000.0,United States
+ORD100196,2024-07-21,Groceries,Groceries,4.0,2000.0,USA
+ORD100197,2026-02-16,Electronics,Electronics,5.0,2500.0,United States
+ORD100198,2024-08-08,Electronics,Electronics,1.0,500.0,Turkey
+ORD100199,2024-08-12,Groceries,Groceries,3.0,1499.97,Nigeria
+ORD100200,2025-05-15,Electronics,Electronics,3.0,1500.0,Nigeria
+ORD100201,2025-08-03,Groceries,Groceries,2.0,2400.0,Nigeria
+ORD100202,2024-04-06,Electronics,Electronics,1.0,1500.0,Turkey
+ORD100203,2024-05-25,electronics,electronics,-1.0,-1200.0,Nigeria
+ORD100204,2025-08-17,electronics,electronics,1.0,2500.0,Nigeria
+ORD100205,2025-01-14,Groceries,Groceries,-1.0,,Turkey
+ORD100206,2025-10-05,Groceries,Groceries,2.0,5000.0,United States
+ORD100207,,Groceries,Groceries,4.0,4800.0,Nigeria
+ORD100208,2024-03-12,Electronics,Electronics,2.0,,United States
+ORD100209,2025-07-19,Home,Home,2.0,,Nigeria
+ORD100210,2025-12-08,Electronics,Electronics,1.0,500.0,Ghana
+ORD100211,2026-02-07,electronics,electronics,1.0,2500.0,United States
+ORD100212,2024-02-21,Groceries,Groceries,2.0,5000.0,USA
+ORD100213,2025-09-08,Groceries,Groceries,2.0,5000.0,Ghana
+ORD100214,2025-07-08,Fashion,Fashion,1.0,499.99,Nigeria
+ORD100215,2025-02-27,Home,Home,,,United Kingdom
+ORD100216,2025-07-28,Fashion,Fashion,1.0,499.99,nigeria
+ORD100217,2024-11-25,Electronics,Electronics,1.0,500.0,nigeria
+ORD100218,2024-12-05,electronics,electronics,2.0,3000.0,Ghana
+ORD100219,2025-06-21,Fashion,Fashion,2.0,1000.0,nigeria
+ORD100220,2024-08-07,Electronics,Electronics,2.0,999.98,Nigeria
+ORD100221,2025-09-01,Home,Home,4.0,4800.0,Nigeria
+ORD100222,2025-03-06,Electronics,Electronics,2.0,3000.0,Turkey
+ORD100223,2025-11-19,Groceries,Groceries,3.0,1500.0,Turkey
+ORD100224,2025-02-16,Groceries,Groceries,4.0,4800.0,United States
+ORD100225,2024-08-21,Electronics,Electronics,-1.0,-500.0,United Kingdom
+ORD100226,2025-11-13,Groceries,Groceries,1.0,500.0,Ghana
+ORD100227,2025-04-20,electronics,electronics,1.0,2500.0,USA
+ORD100228,2024-07-28,Fashion,Fashion,1.0,499.99,United States
+ORD100229,2025-04-08,Electronics,Electronics,-1.0,-1200.0,Turkey
+ORD100230,2025-09-10,Electronics,Electronics,3.0,1500.0,nigeria
+ORD100231,2025-08-14,Home,Home,1.0,499.99,United States
+ORD100232,2024-03-16,Groceries,Groceries,5.0,6000.0,Nigeria
+ORD100233,2024-11-15,Electronics,Electronics,1.0,2500.0,Turkey
+ORD100234,2026-01-06,electronics,electronics,1.0,1500.0,USA
+ORD100235,,Electronics,Electronics,1.0,500.0,Nigeria
+ORD100236,2025-06-08,Home,Home,2.0,5000.0,USA
+ORD100237,2025-11-29,Fashion,Fashion,4.0,10000.0,Nigeria
+ORD100238,2024-03-29,Electronics,Electronics,4.0,6000.0,Turkey
+ORD100239,2025-04-27,Groceries,Groceries,4.0,10000.0,USA
+ORD100240,2024-04-18,Home,Home,5.0,2499.95,USA
+ORD100241,2024-06-04,Fashion,Fashion,2.0,3000.0,Nigeria
+ORD100242,2025-03-16,Electronics,Electronics,1.0,499.99,USA
+ORD100243,2026-01-30,Electronics,Electronics,3.0,3600.0,Turkey
+ORD100244,2025-11-08,Groceries,Groceries,1.0,,nigeria
+ORD100245,2024-02-26,Electronics,Electronics,,,United Kingdom
+ORD100246,2025-09-12,Groceries,Groceries,-1.0,-1500.0,Nigeria
+ORD100247,2025-12-22,Fashion,Fashion,2.0,1000.0,United Kingdom
+ORD100248,2026-01-28,Electronics,Electronics,3.0,7500.0,Turkey
+ORD100249,2024-02-21,Home,Home,5.0,12500.0,Ghana
+ORD100250,2024-08-19,Fashion,Fashion,3.0,4500.0,United States
+ORD100251,2026-02-02,Home,Home,-1.0,-1200.0,nigeria
+ORD100252,2026-02-11,Home,Home,,,Turkey
+ORD100253,2025-02-18,Groceries,Groceries,3.0,1500.0,Ghana
+ORD100254,2025-09-12,Electronics,Electronics,2.0,,Turkey
+ORD100255,,Electronics,Electronics,2.0,,nigeria
+ORD100256,2025-04-30,Electronics,Electronics,1.0,1500.0,nigeria
+ORD100257,2025-11-25,Fashion,Fashion,-1.0,-500.0,Nigeria
+ORD100258,2026-01-01,Fashion,Fashion,4.0,6000.0,Ghana
+ORD100259,2024-10-19,Electronics,Electronics,1.0,2500.0,Ghana
+ORD100260,2024-04-02,Electronics,Electronics,1.0,2500.0,United States
+ORD100261,2024-07-17,Home,Home,2.0,999.98,Nigeria
+ORD100262,2024-08-02,electronics,electronics,,,Nigeria
+ORD100263,2024-05-19,Home,Home,,,Turkey
+ORD100264,2025-10-13,Home,Home,,,United States
+ORD100265,2025-11-28,Electronics,Electronics,2.0,1000.0,Nigeria
+ORD100266,2025-07-09,Electronics,Electronics,2.0,999.98,Nigeria
+ORD100267,2024-07-18,Home,Home,5.0,6000.0,Ghana
+ORD100268,,Fashion,Fashion,2.0,,nigeria
+ORD100269,2025-10-19,Groceries,Groceries,4.0,2000.0,United Kingdom
+ORD100270,2024-05-27,Fashion,Fashion,1.0,1200.0,nigeria
+ORD100271,2025-08-29,electronics,electronics,3.0,1500.0,Turkey
+ORD100272,2025-12-22,Electronics,Electronics,,,USA
+ORD100273,,Fashion,Fashion,,,Nigeria
+ORD100274,2024-11-07,electronics,electronics,5.0,2500.0,Turkey
+ORD100275,2025-06-13,Groceries,Groceries,1.0,,Nigeria
+ORD100276,2024-08-18,electronics,electronics,1.0,1500.0,Nigeria
+ORD100277,2024-09-13,Electronics,Electronics,2.0,1000.0,Nigeria
+ORD100278,2024-02-28,Groceries,Groceries,2.0,5000.0,Turkey
+ORD100279,2025-12-19,Electronics,Electronics,-1.0,-499.99,Nigeria
+ORD100280,2025-08-01,Groceries,Groceries,1.0,,United States
+ORD100281,2024-09-10,Groceries,Groceries,2.0,3000.0,Nigeria
+ORD100282,2025-08-28,Groceries,Groceries,4.0,10000.0,Turkey
+ORD100283,2025-03-23,electronics,electronics,1.0,500.0,Ghana
+ORD100284,2024-06-05,Groceries,Groceries,1.0,1200.0,Nigeria
+ORD100285,2025-06-19,Electronics,Electronics,-1.0,,USA
+ORD100286,2024-11-01,Groceries,Groceries,1.0,500.0,Nigeria
+ORD100287,2025-01-05,Fashion,Fashion,3.0,1500.0,United States
+ORD100288,2025-08-28,Electronics,Electronics,5.0,12500.0,Nigeria
+ORD100289,2024-07-31,Fashion,Fashion,2.0,999.98,Nigeria
+ORD100290,2025-01-20,electronics,electronics,5.0,7500.0,United States
+ORD100291,2024-05-17,Groceries,Groceries,5.0,7500.0,Nigeria
+ORD100292,2024-06-28,Fashion,Fashion,4.0,4800.0,Nigeria
+ORD100293,2024-09-05,electronics,electronics,,,United Kingdom
+ORD100294,2024-07-16,Home,Home,3.0,1500.0,Ghana
+ORD100295,2025-10-17,Fashion,Fashion,4.0,2000.0,USA
+ORD100296,2024-06-08,Electronics,Electronics,2.0,,USA
+ORD100297,2025-07-20,Electronics,Electronics,3.0,1500.0,Nigeria
+ORD100298,2024-07-04,Groceries,Groceries,,,United Kingdom
+ORD100299,2024-05-30,Fashion,Fashion,-1.0,-1200.0,Ghana
+ORD100300,2024-09-23,Electronics,Electronics,2.0,2400.0,Nigeria
+ORD100301,2024-11-25,Electronics,Electronics,4.0,1999.96,Turkey
+ORD100302,2025-02-14,electronics,electronics,1.0,1200.0,United States
+ORD100303,2025-09-24,Home,Home,3.0,7500.0,Ghana
+ORD100304,2024-10-26,Fashion,Fashion,3.0,1500.0,United States
+ORD100305,2025-12-25,Home,Home,,,Nigeria
+ORD100306,2025-10-13,electronics,electronics,1.0,500.0,United Kingdom
+ORD100307,2024-02-21,electronics,electronics,5.0,6000.0,Ghana
+ORD100308,2026-02-17,Electronics,Electronics,2.0,1000.0,USA
+ORD100309,2025-08-10,Electronics,Electronics,2.0,5000.0,United Kingdom
+ORD100310,2025-08-31,electronics,electronics,3.0,,nigeria
+ORD100311,2025-05-01,Groceries,Groceries,,,USA
+ORD100312,2024-10-27,Electronics,Electronics,5.0,7500.0,Nigeria
+ORD100313,2024-02-26,Fashion,Fashion,1.0,,Turkey
+ORD100314,2025-08-22,Groceries,Groceries,,,United States
+ORD100315,2025-02-13,Groceries,Groceries,2.0,1000.0,United States
+ORD100316,2025-12-18,Groceries,Groceries,1.0,500.0,United States
+ORD100317,2024-12-24,Home,Home,4.0,6000.0,United Kingdom
+ORD100318,2024-09-09,Groceries,Groceries,3.0,4500.0,nigeria
+ORD100319,2024-10-28,electronics,electronics,,,Nigeria
+ORD100320,2025-05-31,Electronics,Electronics,2.0,3000.0,United Kingdom
+ORD100321,2024-04-27,Home,Home,1.0,1200.0,Turkey
+ORD100322,2025-04-23,Electronics,Electronics,1.0,500.0,Ghana
+ORD100323,2025-04-18,electronics,electronics,2.0,5000.0,Nigeria
+ORD100324,2024-07-21,Electronics,Electronics,3.0,,USA
+ORD100325,2024-05-07,Electronics,Electronics,4.0,4800.0,Nigeria
+ORD100326,2024-02-28,Electronics,Electronics,3.0,1499.97,United Kingdom
+ORD100327,2025-10-12,Home,Home,1.0,1200.0,United Kingdom
+ORD100328,2025-05-21,Groceries,Groceries,1.0,500.0,United Kingdom
+ORD100329,2024-05-09,Groceries,Groceries,2.0,1000.0,USA
+ORD100330,2025-01-03,Electronics,Electronics,2.0,,USA
+ORD100331,2025-11-10,Groceries,Groceries,1.0,500.0,Nigeria
+ORD100332,2025-07-29,electronics,electronics,1.0,499.99,Turkey
+ORD100333,2025-02-15,Home,Home,4.0,1999.96,Turkey
+ORD100334,2025-07-11,Groceries,Groceries,4.0,2000.0,United States
+ORD100335,2025-06-04,Electronics,Electronics,5.0,2500.0,United Kingdom
+ORD100336,2025-09-13,Electronics,Electronics,1.0,1200.0,Nigeria
+ORD100337,2025-12-18,Groceries,Groceries,2.0,,United States
+ORD100338,2024-06-28,Groceries,Groceries,1.0,1500.0,United States
+ORD100339,2024-10-30,Fashion,Fashion,,,Turkey
+ORD100340,2024-08-18,Fashion,Fashion,4.0,,Ghana
+ORD100341,2026-01-04,Electronics,Electronics,4.0,6000.0,USA
+ORD100342,2024-08-16,Groceries,Groceries,2.0,3000.0,Turkey
+ORD100343,2025-04-01,Home,Home,1.0,500.0,Turkey
+ORD100344,2025-07-18,Electronics,Electronics,,,USA
+ORD100345,2024-03-17,Groceries,Groceries,3.0,3600.0,United States
+ORD100346,2024-12-16,Groceries,Groceries,,,United States
+ORD100347,2024-09-09,Home,Home,2.0,,Nigeria
+ORD100348,2025-08-11,Groceries,Groceries,5.0,6000.0,Nigeria
+ORD100349,2025-12-30,Home,Home,2.0,3000.0,Turkey
+ORD100350,2025-04-04,Home,Home,3.0,7500.0,United Kingdom
+ORD100351,2024-03-19,Home,Home,2.0,5000.0,Turkey
+ORD100352,,Groceries,Groceries,2.0,1000.0,United States
+ORD100353,2024-07-05,Home,Home,2.0,2400.0,Nigeria
+ORD100354,2024-05-24,Home,Home,,,Nigeria
+ORD100355,2025-01-24,Electronics,Electronics,-1.0,-499.99,USA
+ORD100356,2024-03-12,Groceries,Groceries,,,Turkey
+ORD100357,2024-07-16,Fashion,Fashion,1.0,500.0,Nigeria
+ORD100358,2024-05-18,Fashion,Fashion,1.0,1200.0,Ghana
+ORD100359,2025-11-29,electronics,electronics,5.0,7500.0,Nigeria
+ORD100360,2025-03-15,Electronics,Electronics,1.0,499.99,Ghana
+ORD100361,2024-12-31,Fashion,Fashion,2.0,3000.0,United Kingdom
+ORD100362,,Fashion,Fashion,5.0,2499.95,United States
+ORD100363,2025-08-23,Fashion,Fashion,3.0,7500.0,nigeria
+ORD100364,2025-07-05,Home,Home,5.0,2500.0,Nigeria
+ORD100365,,Groceries,Groceries,2.0,1000.0,Nigeria
+ORD100366,2025-02-18,Fashion,Fashion,2.0,999.98,Turkey
+ORD100367,2024-10-02,Groceries,Groceries,-1.0,-1200.0,nigeria
+ORD100368,2025-11-29,Groceries,Groceries,3.0,1500.0,United Kingdom
+ORD100369,2025-08-10,Electronics,Electronics,2.0,999.98,Nigeria
+ORD100370,2025-01-11,Fashion,Fashion,2.0,3000.0,United Kingdom
+ORD100371,2024-09-01,electronics,electronics,4.0,4800.0,Nigeria
+ORD100372,2025-01-04,Electronics,Electronics,4.0,2000.0,United States
+ORD100373,2025-11-15,electronics,electronics,1.0,2500.0,United States
+ORD100374,2025-08-11,Electronics,Electronics,,,Nigeria
+ORD100375,2025-10-03,electronics,electronics,-1.0,-2500.0,Turkey
+ORD100376,2026-02-15,Groceries,Groceries,2.0,,USA
+ORD100377,2025-11-20,Groceries,Groceries,1.0,499.99,Nigeria
+ORD100378,2024-04-10,electronics,electronics,-1.0,-1200.0,nigeria
+ORD100379,2024-05-22,Electronics,Electronics,2.0,2400.0,Nigeria
+ORD100380,2024-07-17,Electronics,Electronics,3.0,1499.97,Turkey
+ORD100381,2025-09-17,Home,Home,1.0,1500.0,nigeria
+ORD100382,2024-04-26,Electronics,Electronics,1.0,1200.0,United States
+ORD100383,2025-02-08,Groceries,Groceries,2.0,2400.0,nigeria
+ORD100384,2024-08-27,Home,Home,4.0,,USA
+ORD100385,2024-06-02,Fashion,Fashion,5.0,7500.0,United States
+ORD100386,2024-10-26,Home,Home,2.0,3000.0,United Kingdom
+ORD100387,2025-01-03,electronics,electronics,4.0,6000.0,USA
+ORD100388,,Electronics,Electronics,4.0,4800.0,Ghana
+ORD100389,2024-02-23,Groceries,Groceries,4.0,1999.96,Turkey
+ORD100390,2024-05-08,Electronics,Electronics,1.0,1200.0,Turkey
+ORD100391,2024-09-16,electronics,electronics,5.0,6000.0,United Kingdom
+ORD100392,2024-10-09,electronics,electronics,2.0,999.98,United Kingdom
+ORD100393,2024-07-29,Home,Home,5.0,2499.95,Nigeria
+ORD100394,2024-08-12,Electronics,Electronics,4.0,1999.96,nigeria
+ORD100395,2024-12-05,Fashion,Fashion,-1.0,-499.99,United Kingdom
+ORD100396,2025-09-18,Fashion,Fashion,1.0,500.0,Ghana
+ORD100397,2025-01-18,Groceries,Groceries,2.0,2400.0,Nigeria
+ORD100398,2024-11-03,Groceries,Groceries,,,Turkey
+ORD100399,2025-08-11,Electronics,Electronics,1.0,1200.0,Nigeria
+ORD100400,2024-07-16,Electronics,Electronics,3.0,7500.0,United States
+ORD100401,2024-08-14,Electronics,Electronics,1.0,1200.0,Nigeria
+ORD100402,2025-04-30,Home,Home,1.0,1200.0,USA
+ORD100403,2025-02-10,electronics,electronics,2.0,,Turkey
+ORD100404,2026-02-08,Electronics,Electronics,2.0,3000.0,United States
+ORD100405,2025-12-18,Home,Home,,,United Kingdom
+ORD100406,2024-11-03,Electronics,Electronics,2.0,2400.0,United States
+ORD100407,2024-12-04,Electronics,Electronics,2.0,999.98,Nigeria
+ORD100408,2025-09-18,Groceries,Groceries,3.0,7500.0,United States
+ORD100409,2024-12-25,Home,Home,1.0,2500.0,United Kingdom
+ORD100410,2024-11-15,Electronics,Electronics,1.0,2500.0,United States
+ORD100411,2024-12-12,Electronics,Electronics,,,USA
+ORD100412,2024-08-24,Home,Home,5.0,2499.95,Ghana
+ORD100413,2024-08-30,Electronics,Electronics,,,United States
+ORD100414,2026-02-04,electronics,electronics,1.0,500.0,Ghana
+ORD100415,2024-04-06,electronics,electronics,,,nigeria
+ORD100416,2026-01-17,Fashion,Fashion,5.0,2500.0,USA
+ORD100417,2025-07-19,Groceries,Groceries,3.0,1499.97,United States
+ORD100418,2024-12-06,Fashion,Fashion,,,Nigeria
+ORD100419,2026-01-21,Home,Home,,,United States
+ORD100420,2025-05-29,Electronics,Electronics,,,nigeria
+ORD100421,2025-11-11,Electronics,Electronics,1.0,,Ghana
+ORD100422,2024-11-07,Groceries,Groceries,3.0,1500.0,USA
+ORD100423,2024-09-17,Fashion,Fashion,,,nigeria
+ORD100424,2025-10-19,electronics,electronics,2.0,1000.0,Nigeria
+ORD100425,2024-07-16,Home,Home,5.0,2499.95,United States
+ORD100426,2025-02-03,Fashion,Fashion,3.0,3600.0,nigeria
+ORD100427,2025-07-11,electronics,electronics,3.0,,USA
+ORD100428,2025-08-27,Groceries,Groceries,3.0,1500.0,Nigeria
+ORD100429,2024-05-13,electronics,electronics,1.0,,Nigeria
+ORD100430,2026-02-15,Home,Home,1.0,499.99,United States
+ORD100431,2024-11-02,Groceries,Groceries,1.0,500.0,United States
+ORD100432,,Fashion,Fashion,5.0,2500.0,Ghana
+ORD100433,2024-08-09,Groceries,Groceries,1.0,500.0,USA
+ORD100434,2024-04-06,Groceries,Groceries,1.0,1500.0,Nigeria
+ORD100435,2025-10-15,electronics,electronics,2.0,3000.0,Turkey
+ORD100436,2024-04-29,Home,Home,4.0,6000.0,Turkey
+ORD100437,2024-06-23,Fashion,Fashion,2.0,5000.0,Nigeria
+ORD100438,2024-10-29,electronics,electronics,4.0,,Nigeria
+ORD100439,2024-08-25,electronics,electronics,5.0,2499.95,United Kingdom
+ORD100440,2025-12-26,Electronics,Electronics,2.0,2400.0,Nigeria
+ORD100441,2024-02-29,Electronics,Electronics,5.0,2500.0,Nigeria
+ORD100442,2024-07-13,electronics,electronics,2.0,1000.0,nigeria
+ORD100443,2024-02-23,Electronics,Electronics,2.0,3000.0,United States
+ORD100444,2025-06-14,Groceries,Groceries,,,Ghana
+ORD100445,2026-02-09,Fashion,Fashion,4.0,2000.0,USA
+ORD100446,2024-03-19,Groceries,Groceries,5.0,6000.0,United States
+ORD100447,2024-05-03,electronics,electronics,,,Nigeria
+ORD100448,2026-02-05,Groceries,Groceries,2.0,3000.0,United States
+ORD100449,2024-10-12,Fashion,Fashion,1.0,,United States
+ORD100450,2024-07-20,electronics,electronics,4.0,1999.96,nigeria
+ORD100451,2025-06-14,Groceries,Groceries,2.0,5000.0,nigeria
+ORD100452,2026-01-09,Home,Home,-1.0,,Nigeria
+ORD100453,,electronics,electronics,,,United States
+ORD100454,2025-12-21,Home,Home,3.0,3600.0,USA
+ORD100455,2025-06-10,Fashion,Fashion,,,Nigeria
+ORD100456,2024-12-16,Home,Home,2.0,3000.0,Nigeria
+ORD100457,2025-09-23,Electronics,Electronics,5.0,2500.0,United States
+ORD100458,2024-04-04,electronics,electronics,5.0,7500.0,USA
+ORD100459,2026-02-03,Fashion,Fashion,5.0,2500.0,Ghana
+ORD100460,2024-04-21,Electronics,Electronics,3.0,7500.0,United States
+ORD100461,2025-04-27,Groceries,Groceries,,,Nigeria
+ORD100462,2025-11-13,Fashion,Fashion,3.0,1500.0,Nigeria
+ORD100463,2025-01-05,Electronics,Electronics,1.0,1200.0,Ghana
+ORD100464,2025-05-24,Electronics,Electronics,1.0,1200.0,United States
+ORD100465,2024-03-01,Fashion,Fashion,2.0,1000.0,Turkey
+ORD100466,2024-05-03,electronics,electronics,2.0,3000.0,United States
+ORD100467,2024-12-31,Groceries,Groceries,4.0,6000.0,Turkey
+ORD100468,2024-10-15,Home,Home,5.0,2500.0,USA
+ORD100469,2024-09-02,Electronics,Electronics,2.0,3000.0,Nigeria
+ORD100470,2025-12-17,Home,Home,3.0,,Turkey
+ORD100471,2025-07-18,electronics,electronics,2.0,1000.0,Ghana
+ORD100472,2025-04-02,Fashion,Fashion,1.0,499.99,Ghana
+ORD100473,2024-07-03,Groceries,Groceries,3.0,1500.0,Nigeria
+ORD100474,2024-07-24,Electronics,Electronics,3.0,1499.97,United Kingdom
+ORD100475,2024-09-22,electronics,electronics,3.0,1500.0,nigeria
+ORD100476,2024-12-13,Groceries,Groceries,1.0,1500.0,Ghana
+ORD100477,2024-12-19,electronics,electronics,,,Turkey
+ORD100478,2025-02-22,Electronics,Electronics,5.0,2500.0,nigeria
+ORD100479,2025-11-11,Groceries,Groceries,,,United States
+ORD100480,2024-11-22,Home,Home,,,Ghana
+ORD100481,2025-08-18,Electronics,Electronics,1.0,,Nigeria
+ORD100482,2025-05-19,Electronics,Electronics,3.0,1500.0,USA
+ORD100483,2024-10-02,Groceries,Groceries,1.0,2500.0,Ghana
+ORD100484,2024-07-16,Home,Home,3.0,4500.0,United Kingdom
+ORD100485,2025-09-24,Groceries,Groceries,,,United States
+ORD100486,2024-11-12,Fashion,Fashion,3.0,1499.97,nigeria
+ORD100487,2024-07-12,Fashion,Fashion,1.0,,Ghana
+ORD100488,2024-09-28,Electronics,Electronics,4.0,4800.0,nigeria
+ORD100489,2025-12-08,Electronics,Electronics,,,USA
+ORD100490,,Groceries,Groceries,-1.0,-500.0,nigeria
+ORD100491,2025-05-21,Electronics,Electronics,,,Ghana
+ORD100492,2024-06-10,Fashion,Fashion,1.0,,Ghana
+ORD100493,2024-04-11,Groceries,Groceries,-1.0,-1200.0,United States
+ORD100494,2025-12-24,Fashion,Fashion,2.0,999.98,Turkey
+ORD100495,2025-07-06,Home,Home,1.0,2500.0,United Kingdom
+ORD100496,2024-04-21,Home,Home,2.0,1000.0,Ghana
+ORD100497,,Home,Home,1.0,500.0,United States
+ORD100498,2025-06-14,Fashion,Fashion,2.0,1000.0,Nigeria
+ORD100499,2024-08-23,Groceries,Groceries,3.0,7500.0,nigeria
+ORD100500,2024-08-10,Electronics,Electronics,1.0,1500.0,nigeria
+ORD100501,2024-05-09,Groceries,Groceries,1.0,500.0,Ghana
+ORD100502,2025-07-03,Home,Home,1.0,500.0,USA
+ORD100503,2024-03-09,electronics,electronics,4.0,,United States
+ORD100504,2025-01-11,Electronics,Electronics,5.0,,Ghana
+ORD100505,2026-01-26,Electronics,Electronics,3.0,1499.97,Nigeria
+ORD100506,,Electronics,Electronics,-1.0,-1200.0,Ghana
+ORD100507,2025-11-11,Electronics,Electronics,1.0,2500.0,nigeria
+ORD100508,2025-09-14,Electronics,Electronics,,,Turkey
+ORD100509,2024-03-01,Groceries,Groceries,5.0,2500.0,USA
+ORD100510,2025-11-29,Groceries,Groceries,1.0,1500.0,Nigeria
+ORD100511,2024-09-04,electronics,electronics,2.0,2400.0,Turkey
+ORD100512,,Electronics,Electronics,2.0,1000.0,United States
+ORD100513,,Home,Home,2.0,1000.0,USA
+ORD100514,2024-09-16,Fashion,Fashion,5.0,7500.0,Turkey
+ORD100515,2025-08-20,Electronics,Electronics,1.0,1500.0,United States
+ORD100516,2024-07-23,Home,Home,2.0,3000.0,United Kingdom
+ORD100517,2024-06-23,electronics,electronics,1.0,1500.0,USA
+ORD100518,2024-08-06,Electronics,Electronics,3.0,4500.0,Nigeria
+ORD100519,2024-03-09,electronics,electronics,3.0,1500.0,Nigeria
+ORD100520,2025-08-07,Electronics,Electronics,5.0,12500.0,United States
+ORD100521,2024-02-23,Electronics,Electronics,5.0,2499.95,Ghana
+ORD100522,2025-10-24,Groceries,Groceries,,,United States
+ORD100523,2024-10-24,Electronics,Electronics,2.0,2400.0,United Kingdom
+ORD100524,2024-08-24,Groceries,Groceries,2.0,2400.0,United Kingdom
+ORD100525,2024-09-18,Fashion,Fashion,4.0,6000.0,Nigeria
+ORD100526,2025-02-11,electronics,electronics,1.0,1200.0,nigeria
+ORD100527,2024-06-28,Electronics,Electronics,1.0,500.0,Nigeria
+ORD100528,2025-08-18,electronics,electronics,5.0,12500.0,Nigeria
+ORD100529,2024-07-16,electronics,electronics,4.0,6000.0,nigeria
+ORD100530,2026-02-04,Groceries,Groceries,1.0,500.0,Nigeria
+ORD100531,2025-02-06,Home,Home,1.0,1200.0,Ghana
+ORD100532,2025-01-05,Electronics,Electronics,,,Ghana
+ORD100533,2024-12-24,Groceries,Groceries,,,Nigeria
+ORD100534,2025-04-23,Home,Home,,,United Kingdom
+ORD100535,2026-01-24,Electronics,Electronics,5.0,,Nigeria
+ORD100536,2024-09-17,Home,Home,2.0,2400.0,nigeria
+ORD100537,2026-01-04,electronics,electronics,4.0,4800.0,United States
+ORD100538,2024-11-01,Home,Home,1.0,500.0,Turkey
+ORD100539,2024-05-27,Home,Home,3.0,3600.0,USA
+ORD100540,2025-04-02,Electronics,Electronics,2.0,2400.0,USA
+ORD100541,2026-01-17,Electronics,Electronics,4.0,1999.96,United Kingdom
+ORD100542,2025-04-03,Groceries,Groceries,1.0,,Turkey
+ORD100543,2025-12-06,Fashion,Fashion,1.0,500.0,Ghana
+ORD100544,2025-12-27,Home,Home,1.0,,Ghana
+ORD100545,2024-09-30,Groceries,Groceries,1.0,500.0,United States
+ORD100546,2025-02-14,Electronics,Electronics,4.0,6000.0,Ghana
+ORD100547,2024-07-01,Groceries,Groceries,,,United States
+ORD100548,2025-02-26,electronics,electronics,-1.0,-499.99,United States
+ORD100549,2024-04-30,Groceries,Groceries,2.0,999.98,United States
+ORD100550,2024-04-02,Electronics,Electronics,-1.0,-2500.0,United States
+ORD100551,2025-01-15,Fashion,Fashion,2.0,2400.0,Nigeria
+ORD100552,2024-07-31,Fashion,Fashion,2.0,1000.0,Turkey
+ORD100553,2024-05-28,Groceries,Groceries,1.0,2500.0,Nigeria
+ORD100554,2025-10-02,electronics,electronics,3.0,4500.0,Nigeria
+ORD100555,2025-02-19,electronics,electronics,4.0,4800.0,Nigeria
+ORD100556,2026-02-15,Electronics,Electronics,2.0,1000.0,United States
+ORD100557,2024-11-19,Home,Home,1.0,499.99,Nigeria
+ORD100558,2025-06-08,Fashion,Fashion,1.0,500.0,United Kingdom
+ORD100559,2025-03-31,Home,Home,,,Ghana
+ORD100560,2025-01-13,Groceries,Groceries,2.0,2400.0,Ghana
+ORD100561,2024-10-03,Home,Home,-1.0,-499.99,United Kingdom
+ORD100562,2025-09-02,electronics,electronics,2.0,3000.0,Turkey
+ORD100563,2024-04-30,Fashion,Fashion,2.0,3000.0,Nigeria
+ORD100564,2024-11-25,Electronics,Electronics,-1.0,-1500.0,United Kingdom
+ORD100565,2025-09-24,Fashion,Fashion,1.0,1500.0,Nigeria
+ORD100566,2025-12-23,electronics,electronics,3.0,1500.0,USA
+ORD100567,2024-08-01,Home,Home,2.0,3000.0,Nigeria
+ORD100568,2024-10-31,Fashion,Fashion,,,United States
+ORD100569,2024-09-16,Electronics,Electronics,3.0,7500.0,United States
+ORD100570,2025-09-09,Electronics,Electronics,4.0,4800.0,Ghana
+ORD100571,,Fashion,Fashion,1.0,500.0,nigeria
+ORD100572,2025-12-12,Electronics,Electronics,2.0,1000.0,USA
+ORD100573,2025-04-10,Groceries,Groceries,2.0,999.98,Nigeria
+ORD100574,2025-10-07,electronics,electronics,1.0,500.0,Nigeria
+ORD100575,2024-08-15,Fashion,Fashion,5.0,2499.95,Nigeria
+ORD100576,2024-06-24,Groceries,Groceries,,,Ghana
+ORD100577,2025-09-01,Electronics,Electronics,5.0,12500.0,Nigeria
+ORD100578,2026-02-11,Home,Home,4.0,1999.96,Ghana
+ORD100579,2024-11-26,Electronics,Electronics,2.0,2400.0,United States
+ORD100580,2024-10-12,Electronics,Electronics,2.0,3000.0,Nigeria
+ORD100581,2026-01-19,Fashion,Fashion,1.0,,Ghana
+ORD100582,2025-04-14,Electronics,Electronics,1.0,1200.0,United States
+ORD100583,2025-10-31,Electronics,Electronics,1.0,500.0,United States
+ORD100584,2024-12-09,electronics,electronics,3.0,1500.0,United States
+ORD100585,2024-10-11,Fashion,Fashion,2.0,1000.0,Nigeria
+ORD100586,2025-01-13,Electronics,Electronics,2.0,2400.0,United States
+ORD100587,2024-06-02,Home,Home,1.0,,United Kingdom
+ORD100588,,electronics,electronics,5.0,,USA
+ORD100589,2024-04-03,Electronics,Electronics,1.0,1200.0,United States
+ORD100590,2025-01-31,Fashion,Fashion,4.0,1999.96,USA
+ORD100591,2025-01-16,Groceries,Groceries,1.0,499.99,United States
+ORD100592,,Groceries,Groceries,1.0,500.0,nigeria
+ORD100593,2024-08-03,Fashion,Fashion,1.0,499.99,Turkey
+ORD100594,2024-09-22,Fashion,Fashion,2.0,5000.0,Ghana
+ORD100595,2025-01-25,Electronics,Electronics,-1.0,-500.0,Nigeria
+ORD100596,2025-04-29,Groceries,Groceries,4.0,2000.0,Ghana
+ORD100597,2025-03-03,Fashion,Fashion,2.0,5000.0,Nigeria
+ORD100598,2025-02-22,Home,Home,-1.0,,Ghana
+ORD100599,2024-06-28,Fashion,Fashion,1.0,500.0,Turkey
+ORD100600,2025-08-16,Fashion,Fashion,2.0,2400.0,United States
+ORD100601,2025-03-27,Fashion,Fashion,2.0,1000.0,United States
+ORD100602,2024-07-14,electronics,electronics,1.0,1200.0,Turkey
+ORD100603,2024-12-01,Fashion,Fashion,1.0,1500.0,nigeria
+ORD100604,2025-08-24,Electronics,Electronics,1.0,499.99,Turkey
+ORD100605,2024-11-13,Home,Home,5.0,6000.0,Turkey
+ORD100606,2025-11-30,Groceries,Groceries,1.0,500.0,Ghana
+ORD100607,,electronics,electronics,,,Ghana
+ORD100608,2024-07-12,Electronics,Electronics,3.0,,United States
+ORD100609,2024-09-08,Home,Home,2.0,2400.0,Nigeria
+ORD100610,2025-05-24,Groceries,Groceries,1.0,1500.0,Nigeria
+ORD100611,2025-04-01,electronics,electronics,,,Nigeria
+ORD100612,2026-01-16,Electronics,Electronics,5.0,12500.0,United Kingdom
+ORD100613,2024-10-25,Home,Home,3.0,7500.0,USA
+ORD100614,2025-08-26,Groceries,Groceries,,,United Kingdom
+ORD100615,2024-11-14,Home,Home,2.0,1000.0,Turkey
+ORD100616,2024-10-27,Groceries,Groceries,2.0,2400.0,Nigeria
+ORD100617,2024-10-20,Groceries,Groceries,1.0,1200.0,Ghana
+ORD100618,2024-06-05,Fashion,Fashion,4.0,4800.0,United Kingdom
+ORD100619,2025-04-28,Fashion,Fashion,1.0,500.0,United States
+ORD100620,2025-01-12,Electronics,Electronics,,,Ghana
+ORD100621,2024-03-17,Fashion,Fashion,1.0,500.0,USA
+ORD100622,2024-03-06,Groceries,Groceries,3.0,1500.0,Nigeria
+ORD100623,2025-01-12,Groceries,Groceries,2.0,999.98,United Kingdom
+ORD100624,2025-02-15,Electronics,Electronics,4.0,6000.0,United States
+ORD100625,2024-02-29,electronics,electronics,1.0,,USA
+ORD100626,2024-05-12,Home,Home,1.0,1200.0,Nigeria
+ORD100627,2025-02-19,Electronics,Electronics,1.0,1500.0,United Kingdom
+ORD100628,2024-11-02,electronics,electronics,2.0,1000.0,nigeria
+ORD100629,2025-02-01,electronics,electronics,3.0,1500.0,Turkey
+ORD100630,2026-02-10,Fashion,Fashion,4.0,4800.0,Nigeria
+ORD100631,2025-06-06,Groceries,Groceries,4.0,2000.0,Ghana
+ORD100632,2024-07-09,Home,Home,4.0,2000.0,United States
+ORD100633,2025-05-25,Fashion,Fashion,1.0,500.0,United States
+ORD100634,2025-04-15,Groceries,Groceries,-1.0,-500.0,Nigeria
+ORD100635,2025-09-25,Electronics,Electronics,2.0,999.98,Nigeria
+ORD100636,2024-11-27,Fashion,Fashion,3.0,3600.0,United Kingdom
+ORD100637,2024-11-14,electronics,electronics,1.0,500.0,USA
+ORD100638,2024-10-17,electronics,electronics,3.0,3600.0,United States
+ORD100639,2025-05-25,Groceries,Groceries,1.0,,Ghana
+ORD100640,2025-09-10,Electronics,Electronics,1.0,499.99,Nigeria
+ORD100641,2026-02-15,electronics,electronics,,,USA
+ORD100642,2024-04-10,Fashion,Fashion,2.0,3000.0,nigeria
+ORD100643,2025-03-08,Electronics,Electronics,5.0,6000.0,Nigeria
+ORD100644,2024-03-25,Groceries,Groceries,1.0,1200.0,nigeria
+ORD100645,2025-07-28,Home,Home,3.0,3600.0,Turkey
+ORD100646,2025-02-11,Electronics,Electronics,1.0,1500.0,Ghana
+ORD100647,2024-03-10,Groceries,Groceries,1.0,1500.0,United States
+ORD100648,2024-03-07,Electronics,Electronics,1.0,,Ghana
+ORD100649,2024-12-13,electronics,electronics,5.0,2499.95,Ghana
+ORD100650,2025-08-28,Electronics,Electronics,4.0,10000.0,United States
+ORD100651,2025-10-20,electronics,electronics,1.0,1200.0,nigeria
+ORD100652,2025-05-06,Fashion,Fashion,-1.0,-1200.0,Ghana
+ORD100653,2026-01-01,Groceries,Groceries,2.0,2400.0,Nigeria
+ORD100654,2024-12-20,Groceries,Groceries,2.0,1000.0,nigeria
+ORD100655,2025-05-05,Home,Home,1.0,1200.0,Ghana
+ORD100656,2025-06-05,Fashion,Fashion,3.0,1499.97,Nigeria
+ORD100657,2025-04-16,Groceries,Groceries,1.0,1200.0,nigeria
+ORD100658,2025-10-07,Fashion,Fashion,,,United States
+ORD100659,2024-04-11,Fashion,Fashion,1.0,2500.0,nigeria
+ORD100660,2024-05-10,Groceries,Groceries,2.0,1000.0,USA
+ORD100661,2024-08-23,electronics,electronics,1.0,499.99,Nigeria
+ORD100662,2025-11-10,Home,Home,1.0,2500.0,Turkey
+ORD100663,2024-12-09,Groceries,Groceries,3.0,4500.0,Ghana
+ORD100664,2025-03-31,Fashion,Fashion,3.0,1500.0,Ghana
+ORD100665,2024-09-20,Fashion,Fashion,3.0,1499.97,Ghana
+ORD100666,2025-09-13,Home,Home,2.0,2400.0,United States
+ORD100667,2025-12-20,Groceries,Groceries,1.0,1500.0,Turkey
+ORD100668,2025-08-03,Groceries,Groceries,4.0,10000.0,Nigeria
+ORD100669,2024-03-08,Fashion,Fashion,3.0,3600.0,United States
+ORD100670,2024-09-18,Groceries,Groceries,3.0,3600.0,Nigeria
+ORD100671,2025-04-05,electronics,electronics,1.0,2500.0,Nigeria
+ORD100672,2024-05-13,Fashion,Fashion,1.0,1200.0,Nigeria
+ORD100673,2024-10-06,Groceries,Groceries,3.0,3600.0,USA
+ORD100674,2025-09-19,electronics,electronics,4.0,4800.0,Ghana
+ORD100675,2025-03-15,Fashion,Fashion,2.0,3000.0,United States
+ORD100676,2026-01-02,electronics,electronics,2.0,1000.0,Nigeria
+ORD100677,2025-05-06,Electronics,Electronics,-1.0,-1500.0,United States
+ORD100678,2024-11-10,Groceries,Groceries,,,Nigeria
+ORD100679,2026-01-05,Fashion,Fashion,2.0,999.98,United States
+ORD100680,2026-01-23,Electronics,Electronics,1.0,1500.0,Ghana
+ORD100681,2025-09-18,electronics,electronics,,,United States
+ORD100682,2025-04-16,Groceries,Groceries,1.0,500.0,Nigeria
+ORD100683,2024-08-24,electronics,electronics,1.0,1200.0,Turkey
+ORD100684,2025-08-26,Fashion,Fashion,3.0,3600.0,Nigeria
+ORD100685,2024-10-01,Electronics,Electronics,4.0,6000.0,Nigeria
+ORD100686,2026-01-24,Groceries,Groceries,2.0,999.98,nigeria
+ORD100687,2024-08-25,Fashion,Fashion,3.0,3600.0,United Kingdom
+ORD100688,2025-07-04,Groceries,Groceries,1.0,2500.0,United States
+ORD100689,2024-09-29,Electronics,Electronics,1.0,1200.0,United Kingdom
+ORD100690,2025-01-28,electronics,electronics,3.0,1500.0,United States
+ORD100691,2024-03-27,Groceries,Groceries,-1.0,-1200.0,Ghana
+ORD100692,2025-07-28,Fashion,Fashion,1.0,499.99,Nigeria
+ORD100693,2025-02-03,Fashion,Fashion,2.0,2400.0,United States
+ORD100694,,Groceries,Groceries,2.0,2400.0,Turkey
+ORD100695,2024-05-07,Home,Home,1.0,1500.0,Nigeria
+ORD100696,2025-08-31,Electronics,Electronics,4.0,2000.0,Nigeria
+ORD100697,2024-05-05,electronics,electronics,1.0,1200.0,nigeria
+ORD100698,2024-10-21,Fashion,Fashion,3.0,1500.0,United Kingdom
+ORD100699,2025-12-31,Electronics,Electronics,3.0,1499.97,Nigeria
+ORD100700,2024-11-02,Home,Home,1.0,2500.0,Ghana
+ORD100701,2025-08-26,Groceries,Groceries,2.0,2400.0,nigeria
+ORD100702,2024-03-11,electronics,electronics,3.0,7500.0,Ghana
+ORD100703,2025-03-21,Groceries,Groceries,3.0,3600.0,nigeria
+ORD100704,2025-09-21,Home,Home,1.0,1500.0,United Kingdom
+ORD100705,2024-12-13,Electronics,Electronics,2.0,,Nigeria
+ORD100706,2026-01-11,Fashion,Fashion,2.0,999.98,Ghana
+ORD100707,2025-01-25,Electronics,Electronics,3.0,3600.0,Ghana
+ORD100708,2026-01-23,electronics,electronics,1.0,500.0,Nigeria
+ORD100709,2025-09-14,Groceries,Groceries,3.0,1499.97,USA
+ORD100710,2025-03-14,Home,Home,2.0,,nigeria
+ORD100711,2025-01-30,Home,Home,5.0,2500.0,Turkey
+ORD100712,2024-05-16,Groceries,Groceries,,,USA
+ORD100713,2025-12-18,Groceries,Groceries,3.0,1500.0,Ghana
+ORD100714,2025-07-18,electronics,electronics,4.0,10000.0,Nigeria
+ORD100715,2024-03-25,Groceries,Groceries,1.0,1200.0,nigeria
+ORD100716,2024-11-08,Electronics,Electronics,2.0,1000.0,nigeria
+ORD100717,2025-04-08,electronics,electronics,1.0,1200.0,Ghana
+ORD100718,2024-10-28,Home,Home,1.0,1200.0,Nigeria
+ORD100719,2025-03-15,Home,Home,1.0,499.99,nigeria
+ORD100720,,Electronics,Electronics,3.0,3600.0,Ghana
+ORD100721,2025-03-31,Fashion,Fashion,,,Nigeria
+ORD100722,2025-06-20,Groceries,Groceries,,,Ghana
+ORD100723,2025-04-27,Home,Home,2.0,999.98,Turkey
+ORD100724,2025-04-13,Electronics,Electronics,3.0,1499.97,United Kingdom
+ORD100725,2024-08-09,electronics,electronics,4.0,10000.0,Nigeria
+ORD100726,2025-09-19,Electronics,Electronics,5.0,2499.95,Nigeria
+ORD100727,2024-04-23,Fashion,Fashion,2.0,1000.0,United States
+ORD100728,2024-10-30,Groceries,Groceries,1.0,500.0,United States
+ORD100729,2025-06-18,electronics,electronics,3.0,4500.0,Nigeria
+ORD100730,2025-02-17,Home,Home,1.0,1500.0,Nigeria
+ORD100731,2024-11-18,Groceries,Groceries,,,nigeria
+ORD100732,2025-04-03,Groceries,Groceries,1.0,1200.0,United States
+ORD100733,2024-05-16,Groceries,Groceries,2.0,1000.0,Nigeria
+ORD100734,2025-05-06,Home,Home,,,Turkey
+ORD100735,,Groceries,Groceries,2.0,5000.0,United States
+ORD100736,2024-04-16,Home,Home,1.0,499.99,United Kingdom
+ORD100737,,Electronics,Electronics,4.0,10000.0,Turkey
+ORD100738,2024-07-04,Home,Home,4.0,4800.0,Nigeria
+ORD100739,,electronics,electronics,1.0,1200.0,United States
+ORD100740,2024-08-13,Home,Home,4.0,2000.0,Nigeria
+ORD100741,2025-01-28,Groceries,Groceries,5.0,2500.0,United States
+ORD100742,2024-03-01,Home,Home,1.0,1500.0,Nigeria
+ORD100743,2024-06-07,Fashion,Fashion,1.0,500.0,nigeria
+ORD100744,2026-02-01,Electronics,Electronics,2.0,1000.0,nigeria
+ORD100745,2025-10-23,electronics,electronics,3.0,,United Kingdom
+ORD100746,2025-11-09,Fashion,Fashion,5.0,12500.0,United States
+ORD100747,2025-10-29,Fashion,Fashion,1.0,,USA
+ORD100748,2024-07-05,Electronics,Electronics,3.0,3600.0,United Kingdom
+ORD100749,2025-06-11,Electronics,Electronics,1.0,499.99,United States
+ORD100750,2024-10-26,Groceries,Groceries,3.0,7500.0,Ghana
+ORD100751,2025-12-22,Home,Home,,,United Kingdom
+ORD100752,2025-10-02,Groceries,Groceries,1.0,2500.0,United Kingdom
+ORD100753,2025-10-06,Home,Home,,,nigeria
+ORD100754,2025-09-10,Electronics,Electronics,3.0,1500.0,USA
+ORD100755,2024-12-09,Home,Home,1.0,499.99,United Kingdom
+ORD100756,2025-03-09,electronics,electronics,3.0,1500.0,nigeria
+ORD100757,2025-10-05,Electronics,Electronics,5.0,2500.0,United States
+ORD100758,2024-07-20,Fashion,Fashion,1.0,499.99,Turkey
+ORD100759,2025-04-16,Fashion,Fashion,-1.0,-500.0,Nigeria
+ORD100760,2025-10-07,electronics,electronics,3.0,1500.0,nigeria
+ORD100761,2024-05-17,Groceries,Groceries,2.0,1000.0,Nigeria
+ORD100762,2025-01-08,Groceries,Groceries,1.0,2500.0,Nigeria
+ORD100763,2026-02-03,Electronics,Electronics,1.0,500.0,United States
+ORD100764,2025-02-15,Electronics,Electronics,1.0,1200.0,United States
+ORD100765,2024-08-13,Groceries,Groceries,2.0,1000.0,United Kingdom
+ORD100766,2025-10-22,Fashion,Fashion,,,Nigeria
+ORD100767,2024-07-10,Home,Home,2.0,2400.0,Turkey
+ORD100768,2025-06-04,Fashion,Fashion,3.0,1500.0,United States
+ORD100769,2024-06-15,Home,Home,4.0,1999.96,Turkey
+ORD100770,2025-11-25,Groceries,Groceries,1.0,1200.0,USA
+ORD100771,2025-11-25,Home,Home,5.0,6000.0,Nigeria
+ORD100772,2024-03-13,Electronics,Electronics,5.0,7500.0,Nigeria
+ORD100773,,electronics,electronics,5.0,2500.0,nigeria
+ORD100774,2024-04-02,Electronics,Electronics,4.0,1999.96,Ghana
+ORD100775,2026-02-06,Groceries,Groceries,4.0,2000.0,Ghana
+ORD100776,2025-05-13,Electronics,Electronics,2.0,5000.0,Ghana
+ORD100777,2024-08-21,Groceries,Groceries,1.0,,Nigeria
+ORD100778,2024-02-28,Electronics,Electronics,,,Ghana
+ORD100779,2025-03-05,Home,Home,,,Nigeria
+ORD100780,2025-09-16,Groceries,Groceries,1.0,1200.0,nigeria
+ORD100781,2025-07-18,Fashion,Fashion,1.0,2500.0,United Kingdom
+ORD100782,,Fashion,Fashion,5.0,2500.0,Nigeria
+ORD100783,2025-08-11,Fashion,Fashion,2.0,3000.0,nigeria
+ORD100784,2025-08-29,Electronics,Electronics,4.0,6000.0,United Kingdom
+ORD100785,2025-09-30,Groceries,Groceries,3.0,4500.0,Ghana
+ORD100786,2024-07-10,electronics,electronics,1.0,2500.0,United States
+ORD100787,2024-11-09,Fashion,Fashion,4.0,,USA
+ORD100788,2024-11-18,Electronics,Electronics,1.0,500.0,Nigeria
+ORD100789,2025-11-02,Home,Home,1.0,499.99,Nigeria
+ORD100790,2025-02-20,Fashion,Fashion,1.0,1500.0,Nigeria
+ORD100791,2024-07-10,electronics,electronics,1.0,2500.0,USA
+ORD100792,2025-05-16,Electronics,Electronics,2.0,1000.0,Ghana
+ORD100793,2025-02-07,Electronics,Electronics,2.0,999.98,nigeria
+ORD100794,2025-05-14,Groceries,Groceries,1.0,2500.0,Ghana
+ORD100795,2025-06-08,Electronics,Electronics,,,nigeria
+ORD100796,2025-01-10,electronics,electronics,2.0,,United States
+ORD100797,,Fashion,Fashion,4.0,2000.0,United States
+ORD100798,2024-08-26,electronics,electronics,1.0,499.99,United States
+ORD100799,2025-03-13,Fashion,Fashion,1.0,1500.0,United States
+ORD100800,2025-03-28,Home,Home,1.0,499.99,United States
+ORD100801,2025-08-18,electronics,electronics,2.0,1000.0,Ghana
+ORD100802,2024-05-09,electronics,electronics,2.0,999.98,Nigeria
+ORD100803,2024-06-25,electronics,electronics,3.0,1500.0,Nigeria
+ORD100804,2026-02-02,Electronics,Electronics,2.0,3000.0,United Kingdom
+ORD100805,2025-10-19,Electronics,Electronics,,,nigeria
+ORD100806,2024-12-20,Electronics,Electronics,,,nigeria
+ORD100807,2024-09-06,Fashion,Fashion,3.0,7500.0,United Kingdom
+ORD100808,2024-03-07,Home,Home,-1.0,-499.99,USA
+ORD100809,2026-01-04,Groceries,Groceries,3.0,7500.0,United States
+ORD100810,2025-08-30,Electronics,Electronics,4.0,10000.0,United Kingdom
+ORD100811,2025-09-09,Home,Home,2.0,1000.0,USA
+ORD100812,,Home,Home,-1.0,-2500.0,United Kingdom
+ORD100813,2025-11-06,Fashion,Fashion,1.0,2500.0,Nigeria
+ORD100814,2025-08-05,electronics,electronics,3.0,1500.0,United Kingdom
+ORD100815,2024-03-24,Groceries,Groceries,1.0,500.0,Ghana
+ORD100816,2025-02-26,Home,Home,,,Turkey
+ORD100817,2025-01-06,Electronics,Electronics,-1.0,-2500.0,United States
+ORD100818,2026-01-19,Groceries,Groceries,2.0,2400.0,USA
+ORD100819,2024-09-11,Electronics,Electronics,1.0,500.0,Turkey
+ORD100820,2025-03-22,Electronics,Electronics,2.0,2400.0,United Kingdom
+ORD100821,2024-05-15,Fashion,Fashion,,,Nigeria
+ORD100822,2024-09-02,electronics,electronics,2.0,2400.0,USA
+ORD100823,2026-01-16,Groceries,Groceries,1.0,,Nigeria
+ORD100824,2024-07-15,electronics,electronics,1.0,500.0,Turkey
+ORD100825,2024-05-12,Groceries,Groceries,1.0,500.0,nigeria
+ORD100826,2024-12-07,Groceries,Groceries,1.0,2500.0,Nigeria
+ORD100827,2025-06-03,Fashion,Fashion,2.0,,Nigeria
+ORD100828,2025-03-28,electronics,electronics,3.0,,Nigeria
+ORD100829,2024-02-19,Home,Home,1.0,1200.0,Nigeria
+ORD100830,2024-03-04,Fashion,Fashion,2.0,1000.0,Nigeria
+ORD100831,2025-01-05,Home,Home,2.0,2400.0,Nigeria
+ORD100832,2025-09-12,Groceries,Groceries,1.0,500.0,USA
+ORD100833,2025-02-14,Fashion,Fashion,5.0,,Nigeria
+ORD100834,2024-04-21,Groceries,Groceries,3.0,,Ghana
+ORD100835,2025-12-24,Fashion,Fashion,2.0,999.98,Nigeria
+ORD100836,2025-01-23,Groceries,Groceries,2.0,3000.0,Turkey
+ORD100837,2025-11-29,Fashion,Fashion,1.0,499.99,Nigeria
+ORD100838,2024-06-16,Groceries,Groceries,3.0,1499.97,United States
+ORD100839,2025-09-06,Groceries,Groceries,1.0,,United States
+ORD100840,2024-07-30,Home,Home,3.0,1499.97,Ghana
+ORD100841,2025-05-16,Home,Home,1.0,2500.0,Ghana
+ORD100842,2024-09-30,Fashion,Fashion,2.0,2400.0,nigeria
+ORD100843,2025-11-10,Groceries,Groceries,3.0,1499.97,United Kingdom
+ORD100844,2025-03-03,Groceries,Groceries,2.0,,USA
+ORD100845,2025-10-10,Electronics,Electronics,5.0,2500.0,Nigeria
+ORD100846,2025-03-01,Fashion,Fashion,2.0,,Nigeria
+ORD100847,2026-01-18,Fashion,Fashion,,,Nigeria
+ORD100848,2025-10-26,Groceries,Groceries,2.0,5000.0,nigeria
+ORD100849,2024-10-22,Fashion,Fashion,4.0,6000.0,United Kingdom
+ORD100850,2024-12-20,Fashion,Fashion,1.0,,Ghana
+ORD100851,2024-07-19,Home,Home,2.0,1000.0,United States
+ORD100852,2024-09-11,Electronics,Electronics,2.0,2400.0,Ghana
+ORD100853,2026-01-25,Groceries,Groceries,2.0,2400.0,Nigeria
+ORD100854,,electronics,electronics,2.0,1000.0,United Kingdom
+ORD100855,2024-11-23,Electronics,Electronics,1.0,1500.0,United States
+ORD100856,2024-12-07,Home,Home,4.0,4800.0,Turkey
+ORD100857,2025-09-28,Groceries,Groceries,1.0,499.99,United States
+ORD100858,2024-08-27,Fashion,Fashion,,,nigeria
+ORD100859,2024-08-17,Groceries,Groceries,2.0,1000.0,USA
+ORD100860,2024-05-18,Home,Home,1.0,1500.0,nigeria
+ORD100861,2025-10-11,Groceries,Groceries,2.0,3000.0,United States
+ORD100862,2025-07-21,Home,Home,3.0,4500.0,USA
+ORD100863,2024-03-22,Electronics,Electronics,1.0,1500.0,United States
+ORD100864,2024-08-19,Electronics,Electronics,,,United Kingdom
+ORD100865,2025-09-30,electronics,electronics,5.0,,Nigeria
+ORD100866,2025-08-18,Home,Home,4.0,4800.0,USA
+ORD100867,2025-06-29,Fashion,Fashion,2.0,2400.0,United Kingdom
+ORD100868,2024-06-03,Fashion,Fashion,2.0,2400.0,Turkey
+ORD100869,2025-03-21,Electronics,Electronics,1.0,499.99,Nigeria
+ORD100870,2025-10-03,Groceries,Groceries,,,Nigeria
+ORD100871,2025-09-01,electronics,electronics,1.0,1200.0,Nigeria
+ORD100872,2024-08-20,Fashion,Fashion,2.0,2400.0,Turkey
+ORD100873,2025-06-24,Fashion,Fashion,2.0,2400.0,nigeria
+ORD100874,2025-05-13,Groceries,Groceries,,,United Kingdom
+ORD100875,2024-10-05,Groceries,Groceries,3.0,4500.0,United Kingdom
+ORD100876,2024-04-22,Home,Home,1.0,2500.0,nigeria
+ORD100877,2025-05-30,Fashion,Fashion,2.0,,USA
+ORD100878,2024-07-22,Groceries,Groceries,5.0,6000.0,United States
+ORD100879,2025-01-02,Groceries,Groceries,4.0,2000.0,United States
+ORD100880,2025-07-26,Home,Home,1.0,2500.0,Nigeria
+ORD100881,2025-05-13,Electronics,Electronics,3.0,4500.0,United States
+ORD100882,,Electronics,Electronics,3.0,1500.0,Ghana
+ORD100883,2025-01-29,Home,Home,2.0,3000.0,Nigeria
+ORD100884,2025-11-30,Fashion,Fashion,,,Nigeria
+ORD100885,2024-12-10,Electronics,Electronics,4.0,4800.0,Nigeria
+ORD100886,2024-11-12,Home,Home,5.0,,United States
+ORD100887,2025-08-19,Groceries,Groceries,,,United Kingdom
+ORD100888,2024-04-04,Electronics,Electronics,4.0,2000.0,Ghana
+ORD100889,,Home,Home,2.0,3000.0,nigeria
+ORD100890,2026-02-09,Fashion,Fashion,,,United Kingdom
+ORD100891,2024-03-18,Fashion,Fashion,4.0,4800.0,United Kingdom
+ORD100892,2025-08-26,Electronics,Electronics,5.0,2499.95,Turkey
+ORD100893,2025-12-01,Groceries,Groceries,3.0,7500.0,Ghana
+ORD100894,2024-05-24,Groceries,Groceries,1.0,,USA
+ORD100895,2025-12-26,Fashion,Fashion,3.0,3600.0,Nigeria
+ORD100896,2024-08-07,electronics,electronics,1.0,1200.0,Nigeria
+ORD100897,2024-03-30,Groceries,Groceries,,,United Kingdom
+ORD100898,2024-05-09,Groceries,Groceries,2.0,3000.0,nigeria
+ORD100899,2024-04-09,Fashion,Fashion,1.0,1500.0,Ghana
+ORD100900,2025-12-25,Fashion,Fashion,1.0,1200.0,United Kingdom
+ORD100901,2025-05-21,Electronics,Electronics,1.0,,nigeria
+ORD100902,2026-02-13,Home,Home,1.0,500.0,United States
+ORD100903,2024-07-11,electronics,electronics,1.0,1200.0,United States
+ORD100904,2024-03-14,Electronics,Electronics,1.0,1500.0,USA
+ORD100905,2025-11-19,Groceries,Groceries,3.0,1500.0,nigeria
+ORD100906,2025-05-13,Home,Home,1.0,499.99,Ghana
+ORD100907,,Home,Home,4.0,1999.96,Nigeria
+ORD100908,2025-04-17,Groceries,Groceries,1.0,1200.0,United States
+ORD100909,2025-01-23,Fashion,Fashion,,,United States
+ORD100910,2024-06-03,Groceries,Groceries,2.0,,nigeria
+ORD100911,2024-06-28,Home,Home,1.0,499.99,Nigeria
+ORD100912,2024-04-16,Fashion,Fashion,3.0,4500.0,United States
+ORD100913,2024-02-22,Fashion,Fashion,-1.0,-1200.0,Turkey
+ORD100914,2025-04-13,Groceries,Groceries,1.0,500.0,USA
+ORD100915,2026-01-31,electronics,electronics,1.0,1200.0,United States
+ORD100916,2024-05-26,Groceries,Groceries,1.0,1200.0,United States
+ORD100917,2024-07-07,Electronics,Electronics,5.0,2500.0,United States
+ORD100918,2025-11-08,Electronics,Electronics,3.0,1499.97,United States
+ORD100919,2025-11-19,Electronics,Electronics,5.0,6000.0,nigeria
+ORD100920,2025-10-16,Groceries,Groceries,5.0,2499.95,Nigeria
+ORD100921,2025-05-11,Fashion,Fashion,1.0,500.0,USA
+ORD100922,2025-01-23,Home,Home,5.0,6000.0,nigeria
+ORD100923,2024-07-10,Home,Home,,,Nigeria
+ORD100924,,Home,Home,1.0,,Nigeria
+ORD100925,,Electronics,Electronics,4.0,1999.96,Nigeria
+ORD100926,2025-01-12,Electronics,Electronics,3.0,3600.0,nigeria
+ORD100927,2024-09-19,Groceries,Groceries,1.0,2500.0,Nigeria
+ORD100928,2025-12-01,Fashion,Fashion,1.0,1500.0,Nigeria
+ORD100929,2025-12-21,Electronics,Electronics,,,United Kingdom
+ORD100930,2024-08-10,Electronics,Electronics,3.0,4500.0,USA
+ORD100931,2024-07-03,Fashion,Fashion,3.0,3600.0,Nigeria
+ORD100932,2024-06-20,Fashion,Fashion,3.0,7500.0,United States
+ORD100933,2025-09-01,Groceries,Groceries,1.0,2500.0,United Kingdom
+ORD100934,2024-10-27,Groceries,Groceries,1.0,1200.0,Turkey
+ORD100935,2025-10-19,Home,Home,1.0,2500.0,Ghana
+ORD100936,2026-01-09,Home,Home,2.0,2400.0,United States
+ORD100937,2024-08-30,Groceries,Groceries,3.0,1499.97,nigeria
+ORD100938,2025-07-27,Fashion,Fashion,2.0,3000.0,USA
+ORD100939,,Fashion,Fashion,1.0,1500.0,United States
+ORD100940,2026-02-02,Home,Home,3.0,1499.97,Turkey
+ORD100941,2024-11-10,Fashion,Fashion,1.0,499.99,United Kingdom
+ORD100942,2024-06-29,Home,Home,2.0,2400.0,United States
+ORD100943,2024-03-25,Electronics,Electronics,1.0,1500.0,United States
+ORD100944,2024-09-05,Groceries,Groceries,2.0,,nigeria
+ORD100945,2024-07-14,electronics,electronics,5.0,2500.0,United Kingdom
+ORD100946,2025-03-18,Electronics,Electronics,3.0,3600.0,Turkey
+ORD100947,2024-09-11,Groceries,Groceries,3.0,,United Kingdom
+ORD100948,2025-12-28,Fashion,Fashion,,,Nigeria
+ORD100949,2026-01-31,Fashion,Fashion,5.0,12500.0,United States
+ORD100950,2024-11-17,Home,Home,3.0,1499.97,United States
+ORD100951,2024-06-18,electronics,electronics,2.0,3000.0,Nigeria
+ORD100952,2024-03-22,Groceries,Groceries,2.0,5000.0,United Kingdom
+ORD100953,2024-03-28,Home,Home,1.0,500.0,Turkey
+ORD100954,2024-07-21,Groceries,Groceries,2.0,1000.0,United States
+ORD100955,2024-06-23,Electronics,Electronics,1.0,2500.0,Turkey
+ORD100956,2025-12-11,Groceries,Groceries,-1.0,-499.99,Ghana
+ORD100957,2025-11-07,Electronics,Electronics,4.0,2000.0,Turkey
+ORD100958,,Fashion,Fashion,1.0,500.0,United States
+ORD100959,2025-06-20,electronics,electronics,,,Nigeria
+ORD100960,2024-03-28,Groceries,Groceries,1.0,2500.0,Turkey
+ORD100961,2025-10-13,Electronics,Electronics,,,United States
+ORD100962,2025-01-25,Fashion,Fashion,2.0,5000.0,United States
+ORD100963,2024-06-16,Home,Home,1.0,500.0,Ghana
+ORD100964,2024-11-09,Home,Home,2.0,,USA
+ORD100965,2025-07-06,Fashion,Fashion,3.0,1500.0,Ghana
+ORD100966,,Home,Home,1.0,1200.0,United States
+ORD100967,2024-12-11,Groceries,Groceries,4.0,,Nigeria
+ORD100968,2024-05-07,Home,Home,2.0,,Nigeria
+ORD100969,2025-03-14,Electronics,Electronics,2.0,2400.0,Nigeria
+ORD100970,2025-01-20,Groceries,Groceries,,,nigeria
+ORD100971,2025-07-18,electronics,electronics,4.0,4800.0,Ghana
+ORD100972,2024-06-05,Groceries,Groceries,2.0,1000.0,nigeria
+ORD100973,2025-06-23,Electronics,Electronics,,,United States
+ORD100974,2025-11-26,Groceries,Groceries,2.0,1000.0,United States
+ORD100975,2025-11-12,Groceries,Groceries,5.0,12500.0,Nigeria
+ORD100976,2024-03-18,Fashion,Fashion,2.0,1000.0,Ghana
+ORD100977,2025-09-28,Groceries,Groceries,5.0,2500.0,Ghana
+ORD100978,2025-09-19,Groceries,Groceries,3.0,1499.97,United Kingdom
+ORD100979,2024-12-18,Fashion,Fashion,2.0,2400.0,Ghana
+ORD100980,,Home,Home,,,USA
+ORD100981,2025-08-15,electronics,electronics,3.0,4500.0,Nigeria
+ORD100982,2024-05-16,Groceries,Groceries,1.0,2500.0,Nigeria
+ORD100983,2024-05-16,Groceries,Groceries,2.0,2400.0,United States
+ORD100984,2026-01-27,Groceries,Groceries,1.0,1500.0,Turkey
+ORD100985,2025-01-21,Fashion,Fashion,3.0,3600.0,Nigeria
+ORD100986,2024-08-26,Electronics,Electronics,4.0,6000.0,United States
+ORD100987,2025-08-30,Fashion,Fashion,-1.0,-1200.0,nigeria
+ORD100988,2025-02-08,Electronics,Electronics,4.0,4800.0,Turkey
+ORD100989,2024-09-20,Groceries,Groceries,3.0,3600.0,USA
+ORD100990,2024-07-19,Groceries,Groceries,-1.0,-500.0,United States
+ORD100991,2025-04-26,Home,Home,-1.0,,United States
+ORD100992,2025-09-01,electronics,electronics,1.0,1500.0,Nigeria
+ORD100993,2025-01-15,Electronics,Electronics,,,Nigeria
+ORD100994,2025-09-22,Home,Home,2.0,5000.0,nigeria
+ORD100995,,electronics,electronics,4.0,10000.0,United Kingdom
+ORD100996,2024-09-20,electronics,electronics,3.0,3600.0,Turkey
+ORD100997,2025-06-13,Electronics,Electronics,3.0,1499.97,Nigeria
+ORD100998,2024-09-16,Fashion,Fashion,1.0,2500.0,Ghana
+ORD100999,2025-04-13,Fashion,Fashion,3.0,1500.0,Nigeria
+ORD101000,2024-10-11,Electronics,Electronics,2.0,5000.0,United States
+ORD101001,2025-08-15,Groceries,Groceries,5.0,2499.95,Nigeria
+ORD101002,2024-07-08,Groceries,Groceries,1.0,499.99,Ghana
+ORD101003,2025-01-31,Fashion,Fashion,5.0,12500.0,United Kingdom
+ORD101004,,Groceries,Groceries,2.0,2400.0,USA
+ORD101005,2024-03-16,Home,Home,5.0,2500.0,nigeria
+ORD101006,2025-09-06,Electronics,Electronics,5.0,7500.0,United Kingdom
+ORD101007,2024-04-17,Fashion,Fashion,3.0,3600.0,Nigeria
+ORD101008,2025-03-20,Groceries,Groceries,5.0,2499.95,Turkey
+ORD101009,2024-08-20,electronics,electronics,4.0,2000.0,United States
+ORD101010,2024-10-25,Groceries,Groceries,2.0,1000.0,Ghana
+ORD101011,2024-09-07,Fashion,Fashion,2.0,3000.0,USA
+ORD101012,2025-09-05,Home,Home,2.0,3000.0,Ghana
+ORD101013,2026-01-18,Home,Home,,,nigeria
+ORD101014,2025-08-01,Electronics,Electronics,1.0,499.99,nigeria
+ORD101015,2024-07-06,Electronics,Electronics,5.0,,Ghana
+ORD101016,2025-11-18,Fashion,Fashion,2.0,1000.0,United States
+ORD101017,2024-06-01,Fashion,Fashion,4.0,2000.0,United Kingdom
+ORD101018,,Fashion,Fashion,1.0,1200.0,Ghana
+ORD101019,2025-09-26,Fashion,Fashion,4.0,,Ghana
+ORD101020,2025-11-04,Fashion,Fashion,5.0,2500.0,Turkey
+ORD101021,2025-10-26,Home,Home,5.0,2499.95,United Kingdom
+ORD101022,2025-09-29,Home,Home,3.0,1500.0,Turkey
+ORD101023,2025-10-19,Groceries,Groceries,5.0,2500.0,Ghana
+ORD101024,,Electronics,Electronics,3.0,7500.0,Nigeria
+ORD101025,2024-02-19,Home,Home,1.0,499.99,United States
+ORD101026,2024-09-08,Fashion,Fashion,1.0,1200.0,USA
+ORD101027,2024-05-14,Groceries,Groceries,4.0,2000.0,United States
+ORD101028,2026-01-03,Groceries,Groceries,3.0,3600.0,United Kingdom
+ORD101029,2025-08-31,Electronics,Electronics,1.0,1500.0,Ghana
+ORD101030,2024-04-20,Electronics,Electronics,,,Turkey
+ORD101031,2025-02-02,Fashion,Fashion,3.0,4500.0,USA
+ORD101032,2024-07-30,Fashion,Fashion,5.0,12500.0,nigeria
+ORD101033,2025-02-08,Fashion,Fashion,4.0,10000.0,Ghana
+ORD101034,2025-07-23,Groceries,Groceries,4.0,2000.0,Nigeria
+ORD101035,2025-03-06,Fashion,Fashion,4.0,4800.0,United Kingdom
+ORD101036,2025-01-26,electronics,electronics,5.0,7500.0,United States
+ORD101037,2026-02-04,Fashion,Fashion,2.0,,Nigeria
+ORD101038,2025-03-03,Groceries,Groceries,1.0,2500.0,Nigeria
+ORD101039,2025-02-07,Fashion,Fashion,4.0,10000.0,USA
+ORD101040,2025-05-28,Fashion,Fashion,3.0,,nigeria
+ORD101041,2025-06-10,Electronics,Electronics,,,United States
+ORD101042,2024-10-27,Electronics,Electronics,2.0,2400.0,Nigeria
+ORD101043,2025-04-20,Groceries,Groceries,2.0,1000.0,United States
+ORD101044,2025-11-28,electronics,electronics,2.0,5000.0,United States
+ORD101045,2024-11-15,Groceries,Groceries,2.0,1000.0,United Kingdom
+ORD101046,2026-01-01,Groceries,Groceries,2.0,2400.0,Ghana
+ORD101047,2025-10-26,Groceries,Groceries,2.0,5000.0,Ghana
+ORD101048,2024-12-31,Groceries,Groceries,-1.0,-1200.0,United Kingdom
+ORD101049,2024-03-01,Groceries,Groceries,4.0,1999.96,Turkey
+ORD101050,2024-08-22,Electronics,Electronics,3.0,3600.0,Nigeria
+ORD101051,2025-05-25,electronics,electronics,1.0,2500.0,Ghana
+ORD101052,2025-03-02,Electronics,Electronics,2.0,5000.0,Turkey
+ORD101053,2025-04-24,Home,Home,3.0,1500.0,United Kingdom
+ORD101054,2024-11-25,Fashion,Fashion,1.0,1500.0,Nigeria
+ORD101055,2024-12-22,Electronics,Electronics,5.0,2500.0,Ghana
+ORD101056,2025-05-10,Electronics,Electronics,5.0,7500.0,United Kingdom
+ORD101057,2025-02-14,electronics,electronics,4.0,4800.0,Nigeria
+ORD101058,2025-10-29,Groceries,Groceries,4.0,2000.0,USA
+ORD101059,2024-08-29,Electronics,Electronics,1.0,1200.0,Turkey
+ORD101060,2025-08-20,Electronics,Electronics,5.0,2500.0,Ghana
+ORD101061,2025-12-23,Electronics,Electronics,3.0,7500.0,Nigeria
+ORD101062,2024-09-02,Home,Home,3.0,4500.0,nigeria
+ORD101063,2025-07-21,Electronics,Electronics,3.0,1499.97,Nigeria
+ORD101064,2024-09-24,Home,Home,1.0,1200.0,United Kingdom
+ORD101065,2025-11-22,Groceries,Groceries,2.0,3000.0,Turkey
+ORD101066,2025-08-03,Electronics,Electronics,,,Nigeria
+ORD101067,2024-07-02,Fashion,Fashion,,,nigeria
+ORD101068,2025-01-30,Home,Home,1.0,2500.0,Nigeria
+ORD101069,2024-07-05,Fashion,Fashion,5.0,7500.0,USA
+ORD101070,2025-02-15,Electronics,Electronics,5.0,6000.0,United States
+ORD101071,2026-01-15,Groceries,Groceries,2.0,,United Kingdom
+ORD101072,2025-11-19,Electronics,Electronics,5.0,6000.0,nigeria
+ORD101073,2024-08-17,Groceries,Groceries,4.0,6000.0,USA
+ORD101074,2025-10-13,Groceries,Groceries,3.0,3600.0,Nigeria
+ORD101075,2025-12-30,Electronics,Electronics,2.0,1000.0,Nigeria
+ORD101076,2024-03-28,electronics,electronics,5.0,,nigeria
+ORD101077,2024-08-25,electronics,electronics,3.0,1499.97,Ghana
+ORD101078,2025-11-15,Groceries,Groceries,1.0,1200.0,United States
+ORD101079,2024-11-20,electronics,electronics,2.0,2400.0,Turkey
+ORD101080,2024-05-29,Groceries,Groceries,,,nigeria
+ORD101081,2025-12-18,Electronics,Electronics,2.0,999.98,United States
+ORD101082,2024-07-06,electronics,electronics,2.0,5000.0,USA
+ORD101083,2025-11-03,Groceries,Groceries,5.0,7500.0,USA
+ORD101084,2025-07-18,Home,Home,,,Nigeria
+ORD101085,2025-12-13,Fashion,Fashion,,,nigeria
+ORD101086,2025-07-27,Home,Home,1.0,1200.0,United States
+ORD101087,2025-04-06,Home,Home,1.0,499.99,Nigeria
+ORD101088,2025-04-14,Fashion,Fashion,-1.0,-2500.0,United States
+ORD101089,2024-03-02,Fashion,Fashion,4.0,2000.0,Ghana
+ORD101090,2025-02-23,Electronics,Electronics,1.0,2500.0,nigeria
+ORD101091,2025-09-10,Electronics,Electronics,5.0,2500.0,nigeria
+ORD101092,2025-03-27,Groceries,Groceries,3.0,,Nigeria
+ORD101093,2024-07-06,electronics,electronics,1.0,2500.0,Ghana
+ORD101094,2024-08-19,Groceries,Groceries,1.0,1200.0,Nigeria
+ORD101095,2024-11-29,Electronics,Electronics,2.0,2400.0,Nigeria
+ORD101096,2024-07-26,electronics,electronics,2.0,3000.0,Ghana
+ORD101097,2024-05-06,Electronics,Electronics,1.0,,Nigeria
+ORD101098,2024-11-01,Fashion,Fashion,1.0,500.0,nigeria
+ORD101099,2024-07-09,Electronics,Electronics,,,USA
+ORD101100,2025-11-16,Groceries,Groceries,2.0,5000.0,Ghana
+ORD101101,2025-01-06,electronics,electronics,1.0,499.99,Nigeria
+ORD101102,2025-02-24,Electronics,Electronics,,,Nigeria
+ORD101103,2024-12-01,electronics,electronics,1.0,1200.0,United Kingdom
+ORD101104,2024-02-21,Home,Home,,,Ghana
+ORD101105,2024-05-30,Groceries,Groceries,1.0,2500.0,United Kingdom
+ORD101106,2025-10-09,Electronics,Electronics,2.0,3000.0,Ghana
+ORD101107,2024-09-14,Electronics,Electronics,-1.0,-2500.0,Ghana
+ORD101108,2025-06-23,Groceries,Groceries,5.0,6000.0,Nigeria
+ORD101109,2024-08-27,Groceries,Groceries,3.0,3600.0,nigeria
+ORD101110,2025-01-08,Groceries,Groceries,2.0,5000.0,Ghana
+ORD101111,2025-10-11,Groceries,Groceries,2.0,3000.0,Nigeria
+ORD101112,2025-08-17,Electronics,Electronics,2.0,5000.0,United Kingdom
+ORD101113,2025-07-21,Electronics,Electronics,,,United Kingdom
+ORD101114,,Groceries,Groceries,1.0,1200.0,Ghana
+ORD101115,2024-10-15,electronics,electronics,1.0,500.0,nigeria
+ORD101116,2024-06-11,Groceries,Groceries,1.0,1200.0,Nigeria
+ORD101117,2025-08-14,electronics,electronics,3.0,,USA
+ORD101118,2025-07-30,electronics,electronics,1.0,1200.0,United States
+ORD101119,2025-02-03,Home,Home,3.0,3600.0,Nigeria
+ORD101120,2025-12-28,Groceries,Groceries,5.0,6000.0,Ghana
+ORD101121,2024-08-15,Fashion,Fashion,4.0,10000.0,United Kingdom
+ORD101122,2024-08-25,Groceries,Groceries,3.0,1499.97,USA
+ORD101123,2025-11-06,Groceries,Groceries,2.0,,United States
+ORD101124,2024-10-16,Groceries,Groceries,1.0,2500.0,nigeria
+ORD101125,2024-05-16,Groceries,Groceries,1.0,,United Kingdom
+ORD101126,2024-12-09,Electronics,Electronics,-1.0,-500.0,Ghana
+ORD101127,2025-05-24,Electronics,Electronics,1.0,1500.0,Nigeria
+ORD101128,2024-09-28,Electronics,Electronics,1.0,500.0,United Kingdom
+ORD101129,2025-03-24,electronics,electronics,1.0,1200.0,United States
+ORD101130,2024-06-08,Home,Home,4.0,4800.0,United States
+ORD101131,2025-09-23,electronics,electronics,1.0,2500.0,Nigeria
+ORD101132,2025-12-05,Electronics,Electronics,2.0,999.98,United Kingdom
+ORD101133,2025-06-20,Fashion,Fashion,1.0,,USA
+ORD101134,2025-10-04,Groceries,Groceries,2.0,3000.0,United Kingdom
+ORD101135,2025-10-17,Groceries,Groceries,2.0,999.98,Nigeria
+ORD101136,2025-08-06,electronics,electronics,1.0,500.0,United States
+ORD101137,2024-09-07,Groceries,Groceries,5.0,2500.0,Turkey
+ORD101138,2024-09-28,electronics,electronics,5.0,6000.0,nigeria
+ORD101139,2025-04-02,Electronics,Electronics,2.0,1000.0,Ghana
+ORD101140,2025-12-14,Home,Home,3.0,3600.0,United States
+ORD101141,,Groceries,Groceries,2.0,999.98,United Kingdom
+ORD101142,2024-12-18,Fashion,Fashion,2.0,1000.0,Ghana
+ORD101143,,Groceries,Groceries,,,Nigeria
+ORD101144,2025-11-08,Home,Home,4.0,,nigeria
+ORD101145,2025-02-26,Groceries,Groceries,5.0,2500.0,Ghana
+ORD101146,2025-11-27,Home,Home,2.0,5000.0,United States
+ORD101147,2025-11-26,Fashion,Fashion,1.0,499.99,United Kingdom
+ORD101148,2025-11-17,Home,Home,1.0,1500.0,Nigeria
+ORD101149,2024-11-24,Electronics,Electronics,3.0,3600.0,USA
+ORD101150,2025-06-17,Fashion,Fashion,1.0,1200.0,Nigeria
+ORD101151,2025-01-23,Fashion,Fashion,5.0,7500.0,Turkey
+ORD101152,2024-03-26,Electronics,Electronics,5.0,6000.0,nigeria
+ORD101153,2025-02-05,Fashion,Fashion,5.0,2499.95,Nigeria
+ORD101154,2025-01-11,Home,Home,2.0,2400.0,United Kingdom
+ORD101155,2025-06-14,Fashion,Fashion,5.0,2500.0,United States
+ORD101156,2025-09-03,Groceries,Groceries,4.0,4800.0,Ghana
+ORD101157,2025-02-11,Home,Home,5.0,7500.0,Ghana
+ORD101158,2024-07-20,Groceries,Groceries,-1.0,-1200.0,United Kingdom
+ORD101159,2025-08-04,Groceries,Groceries,2.0,999.98,Turkey
+ORD101160,2026-01-22,Electronics,Electronics,2.0,1000.0,USA
+ORD101161,2024-10-06,electronics,electronics,2.0,1000.0,Ghana
+ORD101162,,Electronics,Electronics,2.0,3000.0,United Kingdom
+ORD101163,2024-07-27,Groceries,Groceries,,,United States
+ORD101164,2024-10-27,Fashion,Fashion,1.0,500.0,Nigeria
+ORD101165,2024-05-21,Groceries,Groceries,1.0,499.99,Ghana
+ORD101166,2025-09-30,Electronics,Electronics,2.0,999.98,Nigeria
+ORD101167,,Groceries,Groceries,1.0,1200.0,United States
+ORD101168,2025-05-22,Groceries,Groceries,2.0,5000.0,Nigeria
+ORD101169,2025-12-13,Groceries,Groceries,1.0,500.0,Ghana
+ORD101170,2025-08-21,electronics,electronics,3.0,3600.0,United Kingdom
+ORD101171,2025-09-06,Groceries,Groceries,3.0,,Nigeria
+ORD101172,2025-06-03,Groceries,Groceries,4.0,1999.96,Nigeria
+ORD101173,2024-12-07,electronics,electronics,1.0,499.99,Turkey
+ORD101174,2024-03-18,Groceries,Groceries,,,nigeria
+ORD101175,2025-10-12,Home,Home,,,Ghana
+ORD101176,2025-09-11,Home,Home,2.0,,United States
+ORD101177,2024-10-19,Electronics,Electronics,1.0,1200.0,Ghana
+ORD101178,2025-07-24,Groceries,Groceries,,,United Kingdom
+ORD101179,2025-09-15,electronics,electronics,3.0,3600.0,Nigeria
+ORD101180,2025-03-28,Fashion,Fashion,5.0,2499.95,Ghana
+ORD101181,2024-03-11,Electronics,Electronics,3.0,3600.0,Ghana
+ORD101182,2025-03-05,Electronics,Electronics,2.0,5000.0,Ghana
+ORD101183,2025-04-15,Electronics,Electronics,2.0,1000.0,USA
+ORD101184,2025-10-06,electronics,electronics,4.0,4800.0,USA
+ORD101185,2025-05-26,Electronics,Electronics,2.0,1000.0,United States
+ORD101186,2025-02-05,Home,Home,5.0,,Nigeria
+ORD101187,2024-12-29,Fashion,Fashion,1.0,1200.0,Ghana
+ORD101188,2025-02-22,electronics,electronics,-1.0,,nigeria
+ORD101189,2024-10-25,Fashion,Fashion,1.0,500.0,United States
+ORD101190,2024-03-08,Groceries,Groceries,1.0,2500.0,USA
+ORD101191,2024-07-30,Electronics,Electronics,3.0,4500.0,Ghana
+ORD101192,2024-09-08,electronics,electronics,2.0,2400.0,United Kingdom
+ORD101193,2025-02-18,Electronics,Electronics,,,Nigeria
+ORD101194,2024-12-22,Fashion,Fashion,3.0,7500.0,nigeria
+ORD101195,2025-12-31,Home,Home,,,USA
+ORD101196,2024-04-13,electronics,electronics,2.0,2400.0,United Kingdom
+ORD101197,2025-04-01,Groceries,Groceries,3.0,4500.0,United States
+ORD101198,2024-11-21,Electronics,Electronics,3.0,4500.0,USA
+ORD101199,2025-03-22,Electronics,Electronics,,,Nigeria
+ORD101200,2024-04-27,Groceries,Groceries,2.0,999.98,nigeria
+ORD101201,2024-04-14,Electronics,Electronics,5.0,2500.0,Nigeria
+ORD101202,2024-08-25,Fashion,Fashion,3.0,1500.0,Ghana
+ORD101203,2024-11-14,Fashion,Fashion,5.0,,United Kingdom
+ORD101204,2025-04-17,Groceries,Groceries,2.0,,Turkey
+ORD101205,2025-01-02,Home,Home,2.0,2400.0,Ghana
+ORD101206,2025-10-27,Electronics,Electronics,1.0,500.0,Turkey
+ORD101207,2025-06-24,Groceries,Groceries,2.0,3000.0,United Kingdom
+ORD101208,2024-02-28,Groceries,Groceries,3.0,3600.0,United States
+ORD101209,2024-09-15,Electronics,Electronics,,,Ghana
+ORD101210,2026-02-08,Home,Home,4.0,,United Kingdom
+ORD101211,2024-09-12,Fashion,Fashion,1.0,2500.0,USA
+ORD101212,2024-08-23,Electronics,Electronics,5.0,2500.0,Turkey
+ORD101213,2024-04-16,Groceries,Groceries,2.0,1000.0,Nigeria
+ORD101214,2024-09-17,electronics,electronics,1.0,,Nigeria
+ORD101215,2025-10-05,Home,Home,3.0,7500.0,USA
+ORD101216,2025-07-21,Electronics,Electronics,3.0,1500.0,Ghana
+ORD101217,2024-07-09,Groceries,Groceries,1.0,1200.0,USA
+ORD101218,2024-06-12,Electronics,Electronics,3.0,4500.0,Nigeria
+ORD101219,2025-03-23,Electronics,Electronics,,,Nigeria
+ORD101220,2025-07-13,Home,Home,2.0,1000.0,USA
+ORD101221,2025-02-20,Groceries,Groceries,2.0,999.98,United Kingdom
+ORD101222,2024-07-14,electronics,electronics,,,nigeria
+ORD101223,2025-07-05,Electronics,Electronics,1.0,,USA
+ORD101224,2025-05-21,electronics,electronics,1.0,500.0,Nigeria
+ORD101225,2024-07-29,Electronics,Electronics,2.0,1000.0,Nigeria
+ORD101226,2025-09-14,Fashion,Fashion,1.0,499.99,Nigeria
+ORD101227,2025-06-15,Home,Home,2.0,2400.0,Ghana
+ORD101228,2024-05-30,Home,Home,2.0,3000.0,Nigeria
+ORD101229,2026-01-12,Electronics,Electronics,-1.0,-1500.0,Ghana
+ORD101230,2026-01-05,electronics,electronics,2.0,3000.0,Ghana
+ORD101231,2024-09-10,Groceries,Groceries,2.0,5000.0,Nigeria
+ORD101232,2024-05-22,Fashion,Fashion,2.0,1000.0,Ghana
+ORD101233,2025-04-05,electronics,electronics,1.0,2500.0,Turkey
+ORD101234,2024-12-08,Fashion,Fashion,2.0,1000.0,United Kingdom
+ORD101235,2026-01-04,Groceries,Groceries,5.0,6000.0,Nigeria
+ORD101236,2024-02-27,Groceries,Groceries,1.0,499.99,Ghana
+ORD101237,2024-09-17,electronics,electronics,1.0,499.99,Ghana
+ORD101238,2024-12-07,Groceries,Groceries,,,USA
+ORD101239,2024-07-24,Fashion,Fashion,1.0,1500.0,United States
+ORD101240,2024-12-06,Electronics,Electronics,2.0,999.98,United States
+ORD101241,2025-03-08,Groceries,Groceries,,,Nigeria
+ORD101242,2025-03-14,Electronics,Electronics,-1.0,-1200.0,Nigeria
+ORD101243,2025-08-16,electronics,electronics,2.0,2400.0,United States
+ORD101244,2025-08-03,Electronics,Electronics,4.0,1999.96,United States
+ORD101245,2024-11-03,Electronics,Electronics,3.0,,nigeria
+ORD101246,2026-01-25,Electronics,Electronics,5.0,2500.0,Turkey
+ORD101247,2025-08-30,Electronics,Electronics,2.0,,United States
+ORD101248,2024-04-06,Home,Home,4.0,6000.0,Nigeria
+ORD101249,2025-03-05,Fashion,Fashion,1.0,2500.0,nigeria
+ORD101250,2025-08-25,Electronics,Electronics,1.0,500.0,Nigeria
+ORD101251,2024-12-13,Fashion,Fashion,2.0,1000.0,United States
+ORD101252,2025-12-28,Home,Home,3.0,4500.0,United States
+ORD101253,2025-08-05,Electronics,Electronics,3.0,7500.0,United States
+ORD101254,2024-05-17,Fashion,Fashion,5.0,6000.0,United Kingdom
+ORD101255,2024-07-15,Groceries,Groceries,1.0,499.99,nigeria
+ORD101256,2024-11-05,Groceries,Groceries,4.0,4800.0,Nigeria
+ORD101257,2026-02-12,electronics,electronics,4.0,4800.0,USA
+ORD101258,2024-02-24,electronics,electronics,2.0,999.98,United States
+ORD101259,2026-01-29,electronics,electronics,3.0,4500.0,nigeria
+ORD101260,2024-07-21,Groceries,Groceries,3.0,,Turkey
+ORD101261,2024-04-05,Home,Home,3.0,,United Kingdom
+ORD101262,2025-07-29,Home,Home,5.0,2499.95,Nigeria
+ORD101263,2024-08-18,electronics,electronics,1.0,,nigeria
+ORD101264,2026-02-08,Fashion,Fashion,5.0,2500.0,Nigeria
+ORD101265,2025-02-04,electronics,electronics,3.0,,Ghana
+ORD101266,2024-07-13,electronics,electronics,,,Nigeria
+ORD101267,2025-08-10,Electronics,Electronics,2.0,3000.0,Ghana
+ORD101268,2025-03-05,Electronics,Electronics,2.0,5000.0,nigeria
+ORD101269,2025-12-01,Groceries,Groceries,2.0,5000.0,nigeria
+ORD101270,2025-12-11,Home,Home,3.0,1499.97,nigeria
+ORD101271,2024-02-21,Fashion,Fashion,,,Nigeria
+ORD101272,2024-09-10,Fashion,Fashion,1.0,500.0,United States
+ORD101273,2025-09-23,Groceries,Groceries,4.0,1999.96,United Kingdom
+ORD101274,,Groceries,Groceries,2.0,2400.0,USA
+ORD101275,2025-01-27,Fashion,Fashion,1.0,1500.0,United States
+ORD101276,2025-03-02,Fashion,Fashion,3.0,7500.0,United Kingdom
+ORD101277,2025-03-31,electronics,electronics,4.0,10000.0,Ghana
+ORD101278,2025-01-08,Electronics,Electronics,2.0,2400.0,nigeria
+ORD101279,2025-08-29,Fashion,Fashion,2.0,1000.0,nigeria
+ORD101280,2024-04-05,Fashion,Fashion,1.0,,USA
+ORD101281,2026-01-28,Fashion,Fashion,2.0,1000.0,USA
+ORD101282,2025-08-24,Groceries,Groceries,1.0,500.0,Nigeria
+ORD101283,2024-10-11,Fashion,Fashion,5.0,12500.0,Turkey
+ORD101284,2024-04-18,Home,Home,2.0,1000.0,United States
+ORD101285,2024-10-10,Electronics,Electronics,,,USA
+ORD101286,2025-10-15,Home,Home,1.0,1500.0,United States
+ORD101287,2025-02-16,Electronics,Electronics,1.0,499.99,Nigeria
+ORD101288,2024-03-07,electronics,electronics,1.0,1200.0,United States
+ORD101289,2024-06-28,Groceries,Groceries,2.0,1000.0,Nigeria
+ORD101290,2024-08-27,Groceries,Groceries,1.0,500.0,Ghana
+ORD101291,2025-01-21,Groceries,Groceries,3.0,1500.0,USA
+ORD101292,2024-11-30,Electronics,Electronics,2.0,1000.0,USA
+ORD101293,2025-12-05,Electronics,Electronics,2.0,999.98,Turkey
+ORD101294,2025-11-29,Fashion,Fashion,5.0,2500.0,United States
+ORD101295,2025-04-14,Fashion,Fashion,,,Nigeria
+ORD101296,2026-01-11,Groceries,Groceries,4.0,1999.96,Ghana
+ORD101297,2024-04-22,electronics,electronics,2.0,5000.0,Ghana
+ORD101298,2025-12-14,Electronics,Electronics,3.0,7500.0,United States
+ORD101299,2024-04-01,Groceries,Groceries,3.0,7500.0,United States
+ORD101300,2024-03-30,Groceries,Groceries,2.0,1000.0,United Kingdom
+ORD101301,2024-10-15,Groceries,Groceries,3.0,1499.97,United Kingdom
+ORD101302,2025-06-20,Fashion,Fashion,5.0,2500.0,United Kingdom
+ORD101303,2025-05-31,Groceries,Groceries,1.0,2500.0,United Kingdom
+ORD101304,2024-06-18,Electronics,Electronics,1.0,500.0,Nigeria
+ORD101305,2025-06-16,Groceries,Groceries,,,Nigeria
+ORD101306,2025-09-27,Home,Home,3.0,3600.0,Ghana
+ORD101307,2024-09-08,Fashion,Fashion,4.0,6000.0,United Kingdom
+ORD101308,2024-12-11,Electronics,Electronics,4.0,2000.0,Nigeria
+ORD101309,2024-11-18,electronics,electronics,3.0,,United Kingdom
+ORD101310,2025-11-09,Electronics,Electronics,1.0,1200.0,Turkey
+ORD101311,2025-04-18,Groceries,Groceries,5.0,,nigeria
+ORD101312,2024-10-23,Groceries,Groceries,-1.0,-1500.0,United States
+ORD101313,2025-03-29,Home,Home,1.0,500.0,United States
+ORD101314,2025-03-12,Home,Home,1.0,500.0,Ghana
+ORD101315,2024-08-15,Fashion,Fashion,,,nigeria
+ORD101316,2025-09-17,electronics,electronics,1.0,1200.0,nigeria
+ORD101317,,Groceries,Groceries,2.0,2400.0,United States
+ORD101318,2025-01-24,Fashion,Fashion,1.0,,Turkey
+ORD101319,2025-07-19,Groceries,Groceries,1.0,2500.0,United States
+ORD101320,2024-07-19,Electronics,Electronics,1.0,1500.0,nigeria
+ORD101321,2024-02-26,Fashion,Fashion,2.0,5000.0,nigeria
+ORD101322,2024-06-24,electronics,electronics,1.0,2500.0,USA
+ORD101323,2025-05-06,Electronics,Electronics,,,United States
+ORD101324,2024-06-27,electronics,electronics,5.0,12500.0,USA
+ORD101325,2025-02-16,Fashion,Fashion,,,USA
+ORD101326,2025-12-19,electronics,electronics,4.0,4800.0,Ghana
+ORD101327,2024-04-23,Electronics,Electronics,5.0,7500.0,Nigeria
+ORD101328,2025-02-13,Groceries,Groceries,4.0,10000.0,Turkey
+ORD101329,2024-11-23,electronics,electronics,1.0,499.99,United States
+ORD101330,2024-11-19,Fashion,Fashion,3.0,1500.0,nigeria
+ORD101331,,Electronics,Electronics,1.0,499.99,Nigeria
+ORD101332,2025-03-24,electronics,electronics,3.0,4500.0,Nigeria
+ORD101333,2025-12-06,Groceries,Groceries,1.0,1500.0,Nigeria
+ORD101334,2025-01-03,electronics,electronics,1.0,1500.0,Nigeria
+ORD101335,2024-08-17,Groceries,Groceries,2.0,2400.0,Nigeria
+ORD101336,2024-06-07,Fashion,Fashion,2.0,,Nigeria
+ORD101337,2025-08-07,Groceries,Groceries,5.0,6000.0,Nigeria
+ORD101338,2025-01-10,Fashion,Fashion,3.0,4500.0,Nigeria
+ORD101339,2025-03-03,Fashion,Fashion,1.0,499.99,United States
+ORD101340,2025-08-11,Electronics,Electronics,2.0,,United States
+ORD101341,2026-01-08,Electronics,Electronics,5.0,12500.0,Ghana
+ORD101342,2026-01-14,Groceries,Groceries,,,United States
+ORD101343,2024-11-16,Fashion,Fashion,1.0,1200.0,Nigeria
+ORD101344,2025-06-22,Groceries,Groceries,2.0,2400.0,USA
+ORD101345,2024-10-29,electronics,electronics,2.0,,Ghana
+ORD101346,2024-04-18,electronics,electronics,4.0,1999.96,Turkey
+ORD101347,2025-05-15,Groceries,Groceries,2.0,999.98,Ghana
+ORD101348,2025-11-02,Electronics,Electronics,-1.0,,USA
+ORD101349,2024-11-02,Groceries,Groceries,4.0,1999.96,Nigeria
+ORD101350,2025-12-17,Home,Home,1.0,500.0,Nigeria
+ORD101351,2025-07-21,Groceries,Groceries,1.0,500.0,Ghana
+ORD101352,2025-06-22,Fashion,Fashion,-1.0,-500.0,Nigeria
+ORD101353,2025-01-28,electronics,electronics,1.0,,USA
+ORD101354,2024-10-30,Groceries,Groceries,4.0,6000.0,USA
+ORD101355,2025-01-15,Electronics,Electronics,3.0,,Ghana
+ORD101356,2024-08-31,Groceries,Groceries,,,Nigeria
+ORD101357,2025-03-18,Groceries,Groceries,1.0,1500.0,nigeria
+ORD101358,2025-03-20,Electronics,Electronics,2.0,2400.0,USA
+ORD101359,2024-08-16,Groceries,Groceries,2.0,1000.0,USA
+ORD101360,2024-06-17,electronics,electronics,2.0,2400.0,nigeria
+ORD101361,,electronics,electronics,2.0,1000.0,United States
+ORD101362,2025-07-15,Home,Home,,,Nigeria
+ORD101363,2025-10-07,Fashion,Fashion,2.0,1000.0,United States
+ORD101364,2024-02-26,Groceries,Groceries,3.0,3600.0,Nigeria
+ORD101365,2025-07-19,Home,Home,3.0,3600.0,Turkey
+ORD101366,2025-02-05,Home,Home,4.0,10000.0,United Kingdom
+ORD101367,2024-09-04,Electronics,Electronics,5.0,2500.0,United States
+ORD101368,2025-06-05,Groceries,Groceries,1.0,1500.0,Turkey
+ORD101369,2025-01-28,Fashion,Fashion,2.0,3000.0,United Kingdom
+ORD101370,2024-06-19,electronics,electronics,2.0,1000.0,Nigeria
+ORD101371,2024-03-31,Groceries,Groceries,2.0,3000.0,Ghana
+ORD101372,2025-11-18,Electronics,Electronics,3.0,1500.0,United Kingdom
+ORD101373,2026-01-20,electronics,electronics,5.0,2500.0,United States
+ORD101374,2024-05-23,Fashion,Fashion,3.0,3600.0,nigeria
+ORD101375,,Electronics,Electronics,5.0,,USA
+ORD101376,2025-10-14,Groceries,Groceries,3.0,3600.0,USA
+ORD101377,2024-09-24,Groceries,Groceries,,,United States
+ORD101378,2026-01-15,Electronics,Electronics,2.0,2400.0,United States
+ORD101379,2026-02-03,electronics,electronics,1.0,,United States
+ORD101380,2024-09-22,Electronics,Electronics,2.0,2400.0,United Kingdom
+ORD101381,2024-12-05,Electronics,Electronics,4.0,4800.0,USA
+ORD101382,2025-12-07,Groceries,Groceries,4.0,1999.96,United Kingdom
+ORD101383,2024-04-26,Groceries,Groceries,5.0,6000.0,Turkey
+ORD101384,2024-10-17,electronics,electronics,2.0,2400.0,USA
+ORD101385,2026-02-01,electronics,electronics,4.0,2000.0,United Kingdom
+ORD101386,2024-10-04,Groceries,Groceries,2.0,5000.0,nigeria
+ORD101387,,Electronics,Electronics,5.0,2499.95,United States
+ORD101388,,Electronics,Electronics,1.0,1200.0,United States
+ORD101389,2024-12-26,Home,Home,,,Ghana
+ORD101390,2025-06-07,electronics,electronics,5.0,6000.0,Nigeria
+ORD101391,2025-03-04,Electronics,Electronics,5.0,2499.95,Nigeria
+ORD101392,2024-04-14,Electronics,Electronics,3.0,1499.97,USA
+ORD101393,2024-07-15,electronics,electronics,,,Ghana
+ORD101394,2024-10-08,Groceries,Groceries,5.0,2500.0,Nigeria
+ORD101395,2025-03-08,electronics,electronics,3.0,4500.0,Turkey
+ORD101396,2025-01-09,Home,Home,5.0,2499.95,United Kingdom
+ORD101397,2024-04-20,Electronics,Electronics,1.0,,United States
+ORD101398,2026-01-19,Electronics,Electronics,3.0,1499.97,Ghana
+ORD101399,2025-07-19,electronics,electronics,3.0,3600.0,Nigeria
+ORD101400,2024-12-16,Fashion,Fashion,4.0,2000.0,Nigeria
+ORD101401,2024-09-09,electronics,electronics,4.0,1999.96,Nigeria
+ORD101402,2026-01-08,Electronics,Electronics,1.0,,Ghana
+ORD101403,2024-05-13,Groceries,Groceries,2.0,1000.0,United States
+ORD101404,2024-11-06,Fashion,Fashion,4.0,4800.0,United States
+ORD101405,2025-02-16,Groceries,Groceries,3.0,1500.0,United Kingdom
+ORD101406,2024-03-21,Home,Home,,,nigeria
+ORD101407,2025-08-02,Home,Home,-1.0,-500.0,United States
+ORD101408,2025-04-26,Home,Home,,,Ghana
+ORD101409,2025-08-22,Electronics,Electronics,4.0,2000.0,USA
+ORD101410,2024-02-22,electronics,electronics,1.0,500.0,Nigeria
+ORD101411,2025-03-28,Groceries,Groceries,3.0,1500.0,United Kingdom
+ORD101412,2025-12-18,Home,Home,2.0,999.98,Nigeria
+ORD101413,2025-07-31,Groceries,Groceries,4.0,4800.0,United States
+ORD101414,2024-12-28,Fashion,Fashion,1.0,500.0,USA
+ORD101415,2024-02-23,Groceries,Groceries,3.0,4500.0,Nigeria
+ORD101416,2024-04-10,Fashion,Fashion,2.0,2400.0,nigeria
+ORD101417,2024-07-04,Electronics,Electronics,2.0,,Nigeria
+ORD101418,2024-07-10,Groceries,Groceries,3.0,1499.97,Turkey
+ORD101419,2025-12-28,Groceries,Groceries,2.0,2400.0,Ghana
+ORD101420,2025-04-10,Electronics,Electronics,1.0,2500.0,United States
+ORD101421,2024-03-31,electronics,electronics,1.0,2500.0,Ghana
+ORD101422,2025-12-23,Electronics,Electronics,,,USA
+ORD101423,2024-04-29,Groceries,Groceries,2.0,3000.0,United States
+ORD101424,2024-06-30,Groceries,Groceries,2.0,1000.0,United Kingdom
+ORD101425,2024-05-16,Electronics,Electronics,2.0,,United States
+ORD101426,2024-07-01,electronics,electronics,2.0,1000.0,United States
+ORD101427,,Groceries,Groceries,-1.0,-1500.0,Nigeria
+ORD101428,2025-04-01,Electronics,Electronics,5.0,7500.0,Ghana
+ORD101429,2024-11-20,Electronics,Electronics,2.0,1000.0,nigeria
+ORD101430,2024-03-21,Home,Home,5.0,,United States
+ORD101431,2024-10-02,Groceries,Groceries,2.0,999.98,United States
+ORD101432,2025-02-28,Groceries,Groceries,2.0,5000.0,United Kingdom
+ORD101433,2024-11-13,Fashion,Fashion,2.0,999.98,USA
+ORD101434,2025-11-22,electronics,electronics,4.0,2000.0,Nigeria
+ORD101435,2025-11-28,Electronics,Electronics,,,nigeria
+ORD101436,2025-09-18,Electronics,Electronics,4.0,10000.0,nigeria
+ORD101437,2024-08-22,Electronics,Electronics,1.0,1500.0,Nigeria
+ORD101438,2025-03-10,Home,Home,1.0,2500.0,Nigeria
+ORD101439,2026-02-08,Fashion,Fashion,2.0,1000.0,USA
+ORD101440,2025-08-11,Home,Home,1.0,499.99,Ghana
+ORD101441,2025-02-18,Electronics,Electronics,1.0,499.99,Nigeria
+ORD101442,2025-07-28,Electronics,Electronics,1.0,1200.0,Nigeria
+ORD101443,2025-02-27,Groceries,Groceries,2.0,2400.0,Ghana
+ORD101444,2024-08-17,Fashion,Fashion,1.0,500.0,Nigeria
+ORD101445,2025-09-13,Home,Home,4.0,,Ghana
+ORD101446,2026-01-21,Fashion,Fashion,2.0,1000.0,United States
+ORD101447,,Groceries,Groceries,3.0,3600.0,Turkey
+ORD101448,2025-09-02,Electronics,Electronics,,,nigeria
+ORD101449,2024-07-17,Groceries,Groceries,5.0,2499.95,nigeria
+ORD101450,2025-08-08,Electronics,Electronics,5.0,12500.0,USA
+ORD101451,2025-04-08,electronics,electronics,2.0,999.98,United States
+ORD101452,2025-07-27,electronics,electronics,2.0,999.98,Turkey
+ORD101453,2024-04-27,Fashion,Fashion,2.0,999.98,United Kingdom
+ORD101454,,electronics,electronics,2.0,2400.0,Nigeria
+ORD101455,2025-05-04,Fashion,Fashion,4.0,10000.0,Nigeria
+ORD101456,2026-01-17,Groceries,Groceries,4.0,,Nigeria
+ORD101457,2025-09-12,Home,Home,2.0,,Nigeria
+ORD101458,2024-03-14,Groceries,Groceries,3.0,1500.0,Nigeria
+ORD101459,2025-10-20,electronics,electronics,5.0,6000.0,Ghana
+ORD101460,2024-11-17,Fashion,Fashion,3.0,3600.0,Nigeria
+ORD101461,2025-03-25,Home,Home,1.0,500.0,Nigeria
+ORD101462,2024-10-07,Home,Home,2.0,3000.0,Nigeria
+ORD101463,2025-11-24,Fashion,Fashion,2.0,1000.0,United Kingdom
+ORD101464,2025-09-03,Fashion,Fashion,4.0,2000.0,Ghana
+ORD101465,2024-04-15,Electronics,Electronics,1.0,2500.0,Nigeria
+ORD101466,2025-05-09,Groceries,Groceries,1.0,1200.0,USA
+ORD101467,2025-01-14,Groceries,Groceries,1.0,500.0,United States
+ORD101468,2025-03-02,Groceries,Groceries,1.0,499.99,USA
+ORD101469,2024-09-29,Groceries,Groceries,-1.0,-1500.0,United Kingdom
+ORD101470,2025-06-05,Fashion,Fashion,4.0,4800.0,Nigeria
+ORD101471,2024-07-22,Fashion,Fashion,2.0,,Nigeria
+ORD101472,2024-06-16,Electronics,Electronics,5.0,2500.0,nigeria
+ORD101473,2026-01-28,Electronics,Electronics,2.0,1000.0,Ghana
+ORD101474,2025-08-17,electronics,electronics,4.0,1999.96,Nigeria
+ORD101475,2024-10-27,Fashion,Fashion,5.0,6000.0,United Kingdom
+ORD101476,2025-03-13,Electronics,Electronics,3.0,4500.0,Nigeria
+ORD101477,2025-04-07,Groceries,Groceries,3.0,7500.0,Nigeria
+ORD101478,2024-06-20,Groceries,Groceries,5.0,2500.0,Turkey
+ORD101479,2024-04-19,Groceries,Groceries,2.0,1000.0,Ghana
+ORD101480,2025-03-14,Electronics,Electronics,1.0,500.0,Turkey
+ORD101481,,electronics,electronics,1.0,499.99,United Kingdom
+ORD101482,2025-03-02,Electronics,Electronics,1.0,500.0,Nigeria
+ORD101483,2024-05-09,electronics,electronics,4.0,6000.0,USA
+ORD101484,,Electronics,Electronics,2.0,5000.0,Ghana
+ORD101485,2025-04-25,Electronics,Electronics,5.0,6000.0,Turkey
+ORD101486,2025-09-28,Electronics,Electronics,-1.0,-2500.0,United Kingdom
+ORD101487,2026-02-07,electronics,electronics,2.0,999.98,Ghana
+ORD101488,2025-01-10,Groceries,Groceries,1.0,1200.0,nigeria
+ORD101489,2024-12-30,Fashion,Fashion,1.0,,Nigeria
+ORD101490,2024-11-10,Fashion,Fashion,,,Ghana
+ORD101491,2025-10-21,Home,Home,3.0,1500.0,USA
+ORD101492,2025-01-03,Electronics,Electronics,5.0,2499.95,Nigeria
+ORD101493,2025-10-09,Groceries,Groceries,3.0,1499.97,United States
+ORD101494,2024-08-18,electronics,electronics,3.0,3600.0,nigeria
+ORD101495,2025-07-13,Fashion,Fashion,1.0,2500.0,Ghana
+ORD101496,2025-09-03,Electronics,Electronics,1.0,1200.0,Ghana
+ORD101497,2025-12-26,Home,Home,5.0,6000.0,Nigeria
+ORD101498,2025-10-07,Home,Home,3.0,4500.0,Turkey
+ORD101499,2025-10-24,Groceries,Groceries,3.0,,United States
+ORD101500,2025-10-09,Groceries,Groceries,1.0,1200.0,United States
+ORD101501,2024-06-21,Fashion,Fashion,3.0,,nigeria
+ORD101502,2025-12-17,Groceries,Groceries,4.0,1999.96,United Kingdom
+ORD101503,2025-01-10,Groceries,Groceries,1.0,1200.0,Nigeria
+ORD101504,2024-06-08,Home,Home,1.0,1500.0,USA
+ORD101505,2024-03-06,Home,Home,3.0,,United Kingdom
+ORD101506,2026-01-06,Fashion,Fashion,3.0,7500.0,nigeria
+ORD101507,2025-02-12,Groceries,Groceries,2.0,,United States
+ORD101508,2025-01-09,Home,Home,3.0,,USA
+ORD101509,2025-11-23,Groceries,Groceries,,,Ghana
+ORD101510,2026-01-05,Electronics,Electronics,5.0,2500.0,United States
+ORD101511,2024-10-21,Fashion,Fashion,-1.0,-1200.0,United States
+ORD101512,2025-05-19,Electronics,Electronics,1.0,2500.0,Ghana
+ORD101513,2024-11-24,Fashion,Fashion,2.0,1000.0,United States
+ORD101514,2024-06-04,Groceries,Groceries,3.0,1500.0,USA
+ORD101515,2024-07-30,Fashion,Fashion,5.0,2500.0,Turkey
+ORD101516,2025-09-14,Groceries,Groceries,5.0,2500.0,Nigeria
+ORD101517,2025-12-28,Fashion,Fashion,1.0,,Turkey
+ORD101518,2025-04-03,Home,Home,2.0,,Nigeria
+ORD101519,2025-05-23,Groceries,Groceries,1.0,500.0,Nigeria
+ORD101520,2025-08-18,Fashion,Fashion,1.0,499.99,Ghana
+ORD101521,2025-02-10,electronics,electronics,3.0,3600.0,United Kingdom
+ORD101522,2024-03-31,Fashion,Fashion,2.0,1000.0,Nigeria
+ORD101523,,Electronics,Electronics,2.0,3000.0,United Kingdom
+ORD101524,2024-11-13,Fashion,Fashion,1.0,499.99,United States
+ORD101525,2024-03-13,Groceries,Groceries,1.0,1500.0,USA
+ORD101526,2025-07-06,Electronics,Electronics,2.0,1000.0,Ghana
+ORD101527,2026-02-12,Electronics,Electronics,3.0,7500.0,USA
+ORD101528,2024-09-03,Electronics,Electronics,4.0,6000.0,Ghana
+ORD101529,2025-02-08,Electronics,Electronics,,,nigeria
+ORD101530,2025-08-24,Groceries,Groceries,2.0,3000.0,United Kingdom
+ORD101531,2024-07-31,Groceries,Groceries,2.0,999.98,United Kingdom
+ORD101532,2025-05-02,Home,Home,,,United States
+ORD101533,2025-02-25,Electronics,Electronics,,,Nigeria
+ORD101534,,Electronics,Electronics,5.0,2499.95,United States
+ORD101535,2025-04-04,Electronics,Electronics,2.0,999.98,United States
+ORD101536,2025-04-14,Electronics,Electronics,1.0,1500.0,United Kingdom
+ORD101537,2025-04-17,Home,Home,1.0,2500.0,Nigeria
+ORD101538,2025-07-27,Groceries,Groceries,2.0,999.98,United States
+ORD101539,2025-12-12,Fashion,Fashion,5.0,,nigeria
+ORD101540,2025-05-11,Home,Home,3.0,1500.0,nigeria
+ORD101541,2024-05-04,Electronics,Electronics,1.0,500.0,United States
+ORD101542,2024-05-23,Electronics,Electronics,5.0,,United States
+ORD101543,2025-02-19,Fashion,Fashion,1.0,499.99,nigeria
+ORD101544,2026-01-12,Groceries,Groceries,1.0,1200.0,USA
+ORD101545,2024-07-17,Electronics,Electronics,1.0,499.99,Nigeria
+ORD101546,2025-02-25,electronics,electronics,1.0,499.99,United States
+ORD101547,2025-01-29,Electronics,Electronics,3.0,1500.0,United States
+ORD101548,2024-02-24,electronics,electronics,1.0,1500.0,United States
+ORD101549,2025-06-09,Home,Home,2.0,1000.0,Ghana
+ORD101550,2025-01-28,Groceries,Groceries,,,Turkey
+ORD101551,2024-06-01,Electronics,Electronics,5.0,2500.0,United Kingdom
+ORD101552,2025-08-12,Electronics,Electronics,3.0,1500.0,United States
+ORD101553,2025-12-26,Fashion,Fashion,1.0,1200.0,Nigeria
+ORD101554,2024-12-19,electronics,electronics,1.0,499.99,Turkey
+ORD101555,2025-08-28,Fashion,Fashion,-1.0,-2500.0,Ghana
+ORD101556,2025-08-22,Home,Home,2.0,3000.0,United Kingdom
+ORD101557,2025-04-25,Groceries,Groceries,4.0,4800.0,United States
+ORD101558,,Home,Home,,,Nigeria
+ORD101559,2024-06-02,Electronics,Electronics,-1.0,-1500.0,nigeria
+ORD101560,2026-01-29,Fashion,Fashion,3.0,,United States
+ORD101561,2025-02-11,Groceries,Groceries,2.0,3000.0,Nigeria
+ORD101562,2025-09-15,Home,Home,4.0,2000.0,United States
+ORD101563,2025-04-27,Electronics,Electronics,2.0,5000.0,Nigeria
+ORD101564,2026-01-25,Electronics,Electronics,5.0,2500.0,USA
+ORD101565,2025-03-30,electronics,electronics,3.0,,United States
+ORD101566,2025-01-18,Electronics,Electronics,1.0,1200.0,Nigeria
+ORD101567,2025-10-06,Fashion,Fashion,2.0,2400.0,nigeria
+ORD101568,2024-07-03,electronics,electronics,3.0,1499.97,United Kingdom
+ORD101569,2024-07-17,Fashion,Fashion,2.0,1000.0,Nigeria
+ORD101570,2025-06-01,Groceries,Groceries,4.0,6000.0,United Kingdom
+ORD101571,2025-11-14,Groceries,Groceries,4.0,2000.0,Nigeria
+ORD101572,2024-06-16,electronics,electronics,5.0,2500.0,Turkey
+ORD101573,2024-10-09,Electronics,Electronics,3.0,3600.0,United States
+ORD101574,2026-01-13,electronics,electronics,,,nigeria
+ORD101575,2024-10-24,Fashion,Fashion,4.0,10000.0,Nigeria
+ORD101576,2025-11-28,electronics,electronics,,,Ghana
+ORD101577,2024-09-08,Home,Home,5.0,2500.0,United States
+ORD101578,2025-02-23,Groceries,Groceries,2.0,1000.0,nigeria
+ORD101579,2025-12-01,Home,Home,,,Nigeria
+ORD101580,2024-10-26,Home,Home,5.0,2499.95,USA
+ORD101581,2024-07-29,Electronics,Electronics,,,Nigeria
+ORD101582,2025-12-11,Groceries,Groceries,4.0,1999.96,Nigeria
+ORD101583,2024-04-28,Home,Home,1.0,1200.0,United States
+ORD101584,2024-09-28,Home,Home,,,United States
+ORD101585,2025-02-24,Fashion,Fashion,1.0,2500.0,United States
+ORD101586,,electronics,electronics,1.0,1200.0,Nigeria
+ORD101587,2024-02-18,Electronics,Electronics,1.0,499.99,United Kingdom
+ORD101588,2025-09-09,electronics,electronics,3.0,1500.0,Turkey
+ORD101589,2025-12-08,Home,Home,2.0,3000.0,United Kingdom
+ORD101590,2024-12-15,electronics,electronics,5.0,6000.0,USA
+ORD101591,2025-08-07,electronics,electronics,4.0,4800.0,Ghana
+ORD101592,2025-12-07,Electronics,Electronics,,,Ghana
+ORD101593,2024-05-25,Groceries,Groceries,1.0,499.99,Ghana
+ORD101594,2025-10-01,Electronics,Electronics,2.0,999.98,nigeria
+ORD101595,2025-07-01,Fashion,Fashion,,,Nigeria
+ORD101596,2025-05-18,Fashion,Fashion,4.0,10000.0,USA
+ORD101597,2024-05-07,Electronics,Electronics,2.0,5000.0,USA
+ORD101598,2025-07-29,electronics,electronics,5.0,12500.0,United States
+ORD101599,2024-04-13,Electronics,Electronics,2.0,1000.0,United States
+ORD101600,2025-04-13,Fashion,Fashion,1.0,500.0,United States
+ORD101601,2025-02-05,Groceries,Groceries,1.0,499.99,nigeria
+ORD101602,2025-02-24,Home,Home,5.0,2500.0,USA
+ORD101603,2024-12-24,Groceries,Groceries,1.0,500.0,Nigeria
+ORD101604,2024-08-13,Groceries,Groceries,2.0,5000.0,Turkey
+ORD101605,2025-06-06,Fashion,Fashion,2.0,3000.0,nigeria
+ORD101606,2025-11-28,Groceries,Groceries,4.0,4800.0,United States
+ORD101607,2024-07-22,Groceries,Groceries,5.0,12500.0,United States
+ORD101608,2025-04-30,Fashion,Fashion,2.0,1000.0,Nigeria
+ORD101609,2025-07-08,Electronics,Electronics,2.0,1000.0,Ghana
+ORD101610,2025-05-17,electronics,electronics,1.0,,United States
+ORD101611,2025-04-01,Groceries,Groceries,1.0,499.99,United States
+ORD101612,2024-10-15,Groceries,Groceries,2.0,3000.0,Turkey
+ORD101613,2024-09-24,Groceries,Groceries,1.0,2500.0,nigeria
+ORD101614,2024-10-26,Home,Home,1.0,1200.0,Ghana
+ORD101615,2024-12-23,Home,Home,2.0,2400.0,Ghana
+ORD101616,2025-08-05,Electronics,Electronics,2.0,2400.0,Nigeria
+ORD101617,2025-08-11,Groceries,Groceries,4.0,2000.0,United States
+ORD101618,2024-12-29,Home,Home,-1.0,-2500.0,Nigeria
+ORD101619,2025-09-08,Electronics,Electronics,2.0,2400.0,United Kingdom
+ORD101620,2025-06-29,Electronics,Electronics,4.0,10000.0,Nigeria
+ORD101621,2025-07-05,Electronics,Electronics,5.0,,United Kingdom
+ORD101622,2024-07-20,Groceries,Groceries,2.0,3000.0,Nigeria
+ORD101623,2025-05-25,Fashion,Fashion,5.0,7500.0,nigeria
+ORD101624,2024-04-16,electronics,electronics,2.0,2400.0,nigeria
+ORD101625,2024-10-13,electronics,electronics,,,United Kingdom
+ORD101626,2024-04-09,electronics,electronics,5.0,,USA
+ORD101627,2025-08-08,Electronics,Electronics,2.0,,Ghana
+ORD101628,2024-09-28,Fashion,Fashion,2.0,1000.0,United States
+ORD101629,,Groceries,Groceries,1.0,2500.0,Nigeria
+ORD101630,2024-06-20,Home,Home,1.0,,United States
+ORD101631,2024-09-27,electronics,electronics,1.0,1500.0,United States
+ORD101632,2024-11-04,electronics,electronics,-1.0,-499.99,USA
+ORD101633,2025-02-13,Fashion,Fashion,5.0,2499.95,United Kingdom
+ORD101634,2025-02-04,Fashion,Fashion,5.0,6000.0,Nigeria
+ORD101635,2024-05-06,Groceries,Groceries,1.0,499.99,Nigeria
+ORD101636,2024-04-19,Electronics,Electronics,5.0,2500.0,United Kingdom
+ORD101637,2026-02-06,electronics,electronics,1.0,500.0,nigeria
+ORD101638,2026-01-22,Electronics,Electronics,2.0,1000.0,United Kingdom
+ORD101639,2024-07-12,Groceries,Groceries,2.0,1000.0,USA
+ORD101640,,electronics,electronics,2.0,3000.0,nigeria
+ORD101641,2024-04-04,Electronics,Electronics,,,Turkey
+ORD101642,2024-12-07,Fashion,Fashion,3.0,1500.0,United Kingdom
+ORD101643,2025-06-20,electronics,electronics,1.0,1500.0,Ghana
+ORD101644,2025-08-17,Groceries,Groceries,2.0,1000.0,Nigeria
+ORD101645,2025-01-09,Electronics,Electronics,4.0,2000.0,United States
+ORD101646,2026-02-17,Electronics,Electronics,1.0,1500.0,United Kingdom
+ORD101647,2024-06-20,Electronics,Electronics,1.0,1500.0,nigeria
+ORD101648,2025-01-14,electronics,electronics,4.0,2000.0,United Kingdom
+ORD101649,2024-02-25,Groceries,Groceries,2.0,1000.0,United States
+ORD101650,2025-09-07,Groceries,Groceries,3.0,4500.0,Nigeria
+ORD101651,2024-07-31,Electronics,Electronics,3.0,,United States
+ORD101652,,Home,Home,3.0,7500.0,USA
+ORD101653,2024-02-20,Home,Home,3.0,1500.0,United States
+ORD101654,2024-04-15,electronics,electronics,1.0,1200.0,Turkey
+ORD101655,2025-01-11,Electronics,Electronics,,,USA
+ORD101656,2025-04-02,Groceries,Groceries,4.0,2000.0,Nigeria
+ORD101657,,Electronics,Electronics,-1.0,-1500.0,Ghana
+ORD101658,2025-12-24,Electronics,Electronics,1.0,500.0,Turkey
+ORD101659,2024-04-24,Electronics,Electronics,3.0,4500.0,Nigeria
+ORD101660,2025-09-20,Electronics,Electronics,3.0,1500.0,Ghana
+ORD101661,2024-09-06,electronics,electronics,1.0,,nigeria
+ORD101662,2024-12-25,Groceries,Groceries,2.0,2400.0,nigeria
+ORD101663,2024-07-23,Home,Home,3.0,1500.0,Nigeria
+ORD101664,,Groceries,Groceries,-1.0,-500.0,Nigeria
+ORD101665,2025-01-25,Electronics,Electronics,1.0,1200.0,USA
+ORD101666,2025-10-12,Groceries,Groceries,4.0,10000.0,United States
+ORD101667,2024-11-07,Fashion,Fashion,5.0,2500.0,United States
+ORD101668,2024-08-23,Home,Home,,,United Kingdom
+ORD101669,2025-12-19,Fashion,Fashion,5.0,6000.0,Turkey
+ORD101670,2025-04-06,Fashion,Fashion,1.0,500.0,Ghana
+ORD101671,2026-02-13,Electronics,Electronics,1.0,499.99,United States
+ORD101672,2024-06-13,Groceries,Groceries,1.0,500.0,Turkey
+ORD101673,2024-07-28,Groceries,Groceries,1.0,,Ghana
+ORD101674,,Fashion,Fashion,2.0,3000.0,United States
+ORD101675,2024-10-12,electronics,electronics,4.0,1999.96,Ghana
+ORD101676,2025-09-28,Electronics,Electronics,2.0,,USA
+ORD101677,2025-01-25,Home,Home,1.0,499.99,Nigeria
+ORD101678,2024-02-22,Groceries,Groceries,2.0,999.98,Turkey
+ORD101679,2025-02-03,Home,Home,4.0,2000.0,United States
+ORD101680,2025-06-19,Electronics,Electronics,2.0,,United Kingdom
+ORD101681,2025-09-06,Fashion,Fashion,3.0,3600.0,Nigeria
+ORD101682,,Groceries,Groceries,1.0,1200.0,USA
+ORD101683,2025-10-03,electronics,electronics,2.0,3000.0,United States
+ORD101684,2025-10-29,Electronics,Electronics,2.0,3000.0,Turkey
+ORD101685,2024-07-10,electronics,electronics,1.0,2500.0,Nigeria
+ORD101686,2024-03-02,Electronics,Electronics,3.0,1500.0,Ghana
+ORD101687,2024-11-03,electronics,electronics,-1.0,-1500.0,USA
+ORD101688,2025-10-26,Groceries,Groceries,3.0,1500.0,Nigeria
+ORD101689,2024-10-07,Fashion,Fashion,1.0,1500.0,Ghana
+ORD101690,2025-02-15,Groceries,Groceries,1.0,499.99,Nigeria
+ORD101691,2025-12-10,electronics,electronics,2.0,3000.0,Ghana
+ORD101692,2025-06-15,electronics,electronics,1.0,500.0,United Kingdom
+ORD101693,2025-08-06,Groceries,Groceries,1.0,,nigeria
+ORD101694,2025-08-18,electronics,electronics,2.0,2400.0,United States
+ORD101695,2024-03-12,Groceries,Groceries,1.0,,USA
+ORD101696,2025-11-19,electronics,electronics,1.0,499.99,Turkey
+ORD101697,2025-10-03,Electronics,Electronics,3.0,,USA
+ORD101698,2025-04-04,Home,Home,1.0,,Nigeria
+ORD101699,2025-11-12,Electronics,Electronics,5.0,2500.0,nigeria
+ORD101700,2025-03-03,Groceries,Groceries,5.0,12500.0,Turkey
+ORD101701,2025-08-13,Home,Home,1.0,499.99,USA
+ORD101702,2026-02-03,Electronics,Electronics,3.0,,Nigeria
+ORD101703,2024-10-20,Groceries,Groceries,5.0,,Nigeria
+ORD101704,2024-09-07,electronics,electronics,4.0,1999.96,Nigeria
+ORD101705,2026-01-31,Home,Home,,,Nigeria
+ORD101706,2024-11-21,Groceries,Groceries,5.0,,Nigeria
+ORD101707,2025-12-19,Electronics,Electronics,1.0,1500.0,United States
+ORD101708,2024-08-20,Electronics,Electronics,4.0,2000.0,United States
+ORD101709,2025-05-09,Electronics,Electronics,2.0,1000.0,Nigeria
+ORD101710,2025-11-23,Fashion,Fashion,3.0,3600.0,Turkey
+ORD101711,2024-09-10,Home,Home,4.0,10000.0,Nigeria
+ORD101712,2024-11-06,Groceries,Groceries,,,USA
+ORD101713,2024-12-10,Electronics,Electronics,3.0,3600.0,Ghana
+ORD101714,2025-07-03,Fashion,Fashion,3.0,3600.0,Nigeria
+ORD101715,2024-07-19,electronics,electronics,2.0,5000.0,Nigeria
+ORD101716,2025-11-02,Groceries,Groceries,-1.0,-500.0,Nigeria
+ORD101717,2025-04-24,electronics,electronics,1.0,2500.0,Nigeria
+ORD101718,2024-07-22,Electronics,Electronics,4.0,10000.0,United Kingdom
+ORD101719,2025-04-25,electronics,electronics,1.0,500.0,Ghana
+ORD101720,2025-06-20,Fashion,Fashion,3.0,1500.0,Nigeria
+ORD101721,2024-12-17,Fashion,Fashion,2.0,1000.0,Ghana
+ORD101722,2024-04-10,Fashion,Fashion,3.0,1500.0,Ghana
+ORD101723,2024-11-27,Groceries,Groceries,5.0,6000.0,Ghana
+ORD101724,2024-06-27,Electronics,Electronics,1.0,499.99,Turkey
+ORD101725,2024-03-11,Electronics,Electronics,1.0,1500.0,Nigeria
+ORD101726,2025-03-17,Electronics,Electronics,1.0,499.99,United States
+ORD101727,2025-06-08,Electronics,Electronics,2.0,5000.0,Nigeria
+ORD101728,2024-12-13,Fashion,Fashion,1.0,2500.0,United States
+ORD101729,2024-04-30,electronics,electronics,2.0,3000.0,Turkey
+ORD101730,2025-10-29,Groceries,Groceries,5.0,7500.0,Ghana
+ORD101731,2024-08-08,Electronics,Electronics,2.0,1000.0,Nigeria
+ORD101732,2024-10-02,Home,Home,2.0,5000.0,United States
+ORD101733,2025-01-14,Groceries,Groceries,-1.0,-1200.0,USA
+ORD101734,2024-04-14,Fashion,Fashion,1.0,,Turkey
+ORD101735,2024-12-16,electronics,electronics,-1.0,-499.99,United States
+ORD101736,2024-11-12,Fashion,Fashion,2.0,5000.0,United Kingdom
+ORD101737,2024-05-05,Fashion,Fashion,,,Ghana
+ORD101738,2025-06-15,electronics,electronics,2.0,,Ghana
+ORD101739,2025-04-27,Fashion,Fashion,2.0,1000.0,nigeria
+ORD101740,2024-05-01,electronics,electronics,4.0,10000.0,nigeria
+ORD101741,2024-02-25,Groceries,Groceries,1.0,500.0,United States
+ORD101742,2025-07-19,electronics,electronics,5.0,2500.0,Turkey
+ORD101743,2024-02-19,Home,Home,4.0,2000.0,nigeria
+ORD101744,2024-08-30,Fashion,Fashion,5.0,,United Kingdom
+ORD101745,2024-11-18,Groceries,Groceries,1.0,499.99,USA
+ORD101746,2024-08-17,Fashion,Fashion,3.0,1499.97,United Kingdom
+ORD101747,2025-11-05,electronics,electronics,2.0,1000.0,United States
+ORD101748,2025-05-06,Electronics,Electronics,1.0,1500.0,Turkey
+ORD101749,2025-10-14,Fashion,Fashion,1.0,2500.0,United Kingdom
+ORD101750,2025-05-07,electronics,electronics,2.0,3000.0,nigeria
+ORD101751,2024-11-07,Electronics,Electronics,,,Turkey
+ORD101752,,Home,Home,4.0,10000.0,United States
+ORD101753,2024-09-19,electronics,electronics,1.0,500.0,Turkey
+ORD101754,,Fashion,Fashion,4.0,4800.0,nigeria
+ORD101755,,electronics,electronics,5.0,6000.0,United States
+ORD101756,2025-04-26,Electronics,Electronics,1.0,1500.0,Ghana
+ORD101757,2025-02-21,Electronics,Electronics,1.0,1200.0,nigeria
+ORD101758,2025-07-12,Fashion,Fashion,2.0,3000.0,Nigeria
+ORD101759,2026-01-24,Fashion,Fashion,5.0,7500.0,United States
+ORD101760,2024-07-12,Home,Home,1.0,500.0,Nigeria
+ORD101761,,Fashion,Fashion,2.0,1000.0,Turkey
+ORD101762,2024-11-26,Electronics,Electronics,1.0,499.99,USA
+ORD101763,2025-12-12,Electronics,Electronics,1.0,1200.0,USA
+ORD101764,2025-02-22,Groceries,Groceries,1.0,499.99,Ghana
+ORD101765,2024-02-26,Groceries,Groceries,2.0,1000.0,nigeria
+ORD101766,2024-11-04,electronics,electronics,5.0,2499.95,United Kingdom
+ORD101767,2024-12-14,Home,Home,1.0,500.0,Nigeria
+ORD101768,2025-12-24,electronics,electronics,3.0,1500.0,Nigeria
+ORD101769,2025-12-29,Fashion,Fashion,,,United Kingdom
+ORD101770,2024-12-04,Groceries,Groceries,1.0,1500.0,Ghana
+ORD101771,2026-01-21,Electronics,Electronics,2.0,5000.0,nigeria
+ORD101772,2025-11-16,Groceries,Groceries,,,USA
+ORD101773,2025-08-29,Electronics,Electronics,5.0,,United States
+ORD101774,2024-08-04,Groceries,Groceries,5.0,2499.95,United Kingdom
+ORD101775,2024-02-20,electronics,electronics,,,Nigeria
+ORD101776,,electronics,electronics,2.0,999.98,Ghana
+ORD101777,2025-09-02,Home,Home,2.0,999.98,nigeria
+ORD101778,2025-03-30,Electronics,Electronics,1.0,500.0,United States
+ORD101779,2024-04-13,Electronics,Electronics,3.0,4500.0,Ghana
+ORD101780,2024-07-28,Fashion,Fashion,2.0,999.98,United States
+ORD101781,2025-04-21,Groceries,Groceries,5.0,6000.0,United States
+ORD101782,2024-06-19,Groceries,Groceries,3.0,4500.0,United States
+ORD101783,2024-03-18,Fashion,Fashion,,,United States
+ORD101784,2024-12-06,Electronics,Electronics,4.0,2000.0,United States
+ORD101785,2025-01-02,Home,Home,3.0,1500.0,USA
+ORD101786,2024-11-20,Groceries,Groceries,3.0,1499.97,nigeria
+ORD101787,2025-03-19,electronics,electronics,1.0,1200.0,United States
+ORD101788,2024-03-03,electronics,electronics,2.0,1000.0,Nigeria
+ORD101789,2024-12-15,Fashion,Fashion,4.0,2000.0,nigeria
+ORD101790,2025-03-23,Electronics,Electronics,2.0,5000.0,United Kingdom
+ORD101791,2024-07-14,Fashion,Fashion,5.0,7500.0,Nigeria
+ORD101792,2024-05-30,Groceries,Groceries,3.0,,nigeria
+ORD101793,2025-05-26,Electronics,Electronics,,,United States
+ORD101794,2024-08-08,Fashion,Fashion,5.0,6000.0,Nigeria
+ORD101795,2025-04-18,Electronics,Electronics,4.0,4800.0,nigeria
+ORD101796,2025-01-22,Electronics,Electronics,5.0,12500.0,Ghana
+ORD101797,,Electronics,Electronics,1.0,500.0,nigeria
+ORD101798,2024-02-25,electronics,electronics,2.0,,United Kingdom
+ORD101799,2024-05-19,Electronics,Electronics,2.0,1000.0,Ghana

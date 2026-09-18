@@ -1,0 +1,21 @@
+[2026-09-15T13:44:31.307+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2026-09-15T13:44:31.319+0000] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: etl_sederhana_25_572885_PPA_07200.load_data manual__2026-09-15T13:44:11.175352+00:00 [queued]>
+[2026-09-15T13:44:31.326+0000] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: etl_sederhana_25_572885_PPA_07200.load_data manual__2026-09-15T13:44:11.175352+00:00 [queued]>
+[2026-09-15T13:44:31.328+0000] {taskinstance.py:2867} INFO - Starting attempt 1 of 2
+[2026-09-15T13:44:31.346+0000] {taskinstance.py:2890} INFO - Executing <Task(PythonOperator): load_data> on 2026-09-15 13:44:11.175352+00:00
+[2026-09-15T13:44:31.364+0000] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'etl_sederhana_25_572885_PPA_07200', 'load_data', 'manual__2026-09-15T13:44:11.175352+00:00', '--job-id', '21', '--raw', '--subdir', 'DAGS_FOLDER/etl_sederhana_25_572885_PPA_07200.py', '--cfg-path', '/tmp/tmpq25hup5_']
+[2026-09-15T13:44:31.368+0000] {logging_mixin.py:190} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py:70 DeprecationWarning: This process (pid=938) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2026-09-15T13:44:31.368+0000] {standard_task_runner.py:105} INFO - Job 21: Subtask load_data
+[2026-09-15T13:44:31.372+0000] {standard_task_runner.py:72} INFO - Started process 960 to run task
+[2026-09-15T13:44:31.438+0000] {task_command.py:467} INFO - Running <TaskInstance: etl_sederhana_25_572885_PPA_07200.load_data manual__2026-09-15T13:44:11.175352+00:00 [running]> on host 2d69d119d7e7
+[2026-09-15T13:44:31.519+0000] {taskinstance.py:3134} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='25/572885/PPA/07200' AIRFLOW_CTX_DAG_ID='etl_sederhana_25_572885_PPA_07200' AIRFLOW_CTX_TASK_ID='load_data' AIRFLOW_CTX_EXECUTION_DATE='2026-09-15T13:44:11.175352+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-09-15T13:44:11.175352+00:00'
+[2026-09-15T13:44:31.525+0000] {taskinstance.py:732} INFO - ::endgroup::
+[2026-09-15T13:44:31.550+0000] {etl_sederhana_25_572885_PPA_07200.py:131} INFO - [LOAD] mulai | file=/opt/airflow/data/staging/transformed.csv
+[2026-09-15T13:44:31.612+0000] {etl_sederhana_25_572885_PPA_07200.py:146} INFO - [LOAD] written=616 | path=/opt/airflow/data/output/sales_daily.csv | size_bytes=15266
+[2026-09-15T13:44:31.613+0000] {etl_sederhana_25_572885_PPA_07200.py:147} INFO - [LOAD] selesai
+[2026-09-15T13:44:31.616+0000] {python.py:240} INFO - Done. Returned value was: None
+[2026-09-15T13:44:31.628+0000] {taskinstance.py:341} INFO - ::group::Post task execution logs
+[2026-09-15T13:44:31.632+0000] {taskinstance.py:353} INFO - Marking task as SUCCESS. dag_id=etl_sederhana_25_572885_PPA_07200, task_id=load_data, run_id=manual__2026-09-15T13:44:11.175352+00:00, execution_date=20260915T134411, start_date=20260915T134431, end_date=20260915T134431
+[2026-09-15T13:44:31.714+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2026-09-15T13:44:31.725+0000] {taskinstance.py:3901} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2026-09-15T13:44:31.728+0000] {local_task_job_runner.py:245} INFO - ::endgroup::
